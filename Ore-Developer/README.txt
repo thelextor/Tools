@@ -1,1 +1,0 @@
-Ore is a WoW Database Editor written in C#.
