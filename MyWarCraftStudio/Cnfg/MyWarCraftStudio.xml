@@ -1,5 +1,5 @@
 <MyWarCraftStudio>
-	<WoW DataPath="D:\Program Files\Model Changing\World of Warcraft\Data\"/>
+	<WoW DataPath="E:\Games\World of Warcraft\Data\enUS\"/>
 	<LastOption>
 		<mpqTreeView ShowType="*"/>
 		<CraftView BackColor="10053222" Default="10053222"/>
