@@ -2740,4 +2740,49 @@
     <field type="int" name="newField4" />
     <field type="int" name="newField5" />
   </Item-sparse>
+  <VehicleUIIndicator build="0">
+    <index>
+      <primary>field0</primary>
+    </index>
+    <field type="int" name="field0" />
+    <field type="int" name="field1" />
+  </VehicleUIIndicator>
+  <VehicleUIIndSeat build="0">
+    <index>
+      <primary>field0</primary>
+    </index>
+    <field type="int" name="field0" />
+    <field type="int" name="field1" />
+    <field type="int" name="field2" />
+    <field type="int" name="field3" />
+    <field type="int" name="field4" />
+  </VehicleUIIndSeat>
+  <Weather build="17345">
+    <index>
+      <primary>id</primary>
+    </index>
+    <field type="uint" name="id" />
+    <field type="uint" name="unk1" />
+    <field type="uint" name="type" />
+    <field type="float" name="unk2" />
+    <field type="float" name="unk3" />
+    <field type="float" name="unk4" />
+    <field type="float" name="unk5" />
+    <field type="string" name="texture" />
+    <field type="int" name="unk6" />
+    <field type="int" name="unk7" />
+    <field type="int" name="newField" />
+  </Weather>
+  <Difficulty build="0">
+    <index>
+      <primary>field0</primary>
+    </index>
+    <field type="int" name="field0" />
+    <field type="int" name="field1" />
+    <field type="int" name="field2" />
+    <field type="int" name="field3" />
+    <field type="int" name="field4" />
+    <field type="int" name="field5" />
+    <field type="int" name="field6" />
+  </Difficulty>
 </DBFilesClient>
