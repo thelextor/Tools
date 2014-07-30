@@ -1,0 +1,2363 @@
+19:27:54: Starting:
+World of Warcraft Model Viewer v0.7.0.4 (Great-father Winter) Windows 32-bit
+
+
+19:27:54: Initializing Objects...
+19:27:54: Creating Anim Control...
+19:27:54: Creating Char Control...
+19:27:54: Creating Light Control...
+19:27:54: Creating Model Control...
+19:27:54: Creating Settings Control...
+19:27:54: Creating Model Bank Control...
+19:27:54: Creating Model Opened...
+19:27:54: Creating Model Export Options Control...
+19:27:54: Creating OpenGL Canvas...
+19:27:54: Initiating OpenGL...
+19:27:54: Info: GLEW successfully initiated.
+
+19:27:54: Video Renderer: GeForce GTX 680/PCIe/SSE2
+19:27:54: Video Vendor: NVIDIA Corporation
+19:27:54: Driver Version: 4.3.0
+19:27:54: Support wglPixelFormat: true
+19:27:54: Support Texture Compression: true
+19:27:54: Support Multi-Textures: true
+19:27:54: Support Draw Range Elements: true
+19:27:54: Support Vertex Buffer Objects: true
+19:27:54: Support Point Sprites: true
+19:27:54: Support Pixel Shaders: true
+19:27:54: Support Vertex Shaders: true
+19:27:54: Support GLSL: true
+19:27:54: Support Anti-Aliasing: true
+19:27:54: Support Pixel Buffer Objects: true
+19:27:54: Support Frame Buffer Objects: true
+19:27:54: Support Non-Power-of-Two: true
+19:27:54: Support Rectangle Textures: true
+19:27:54: Support OpenGL 2.0: true
+19:27:54: Max Rectangle Texture Size Supported: 16384
+19:27:54: Max Texture Size Supported: 16384
+
+19:27:54: Creating OpenGL Canvas...
+19:27:54: Initiating OpenGL...
+19:27:54: Loading Session settings from: R:\Work\DEV\TOOLS\WoW Model Viewer\userSettings\Config.ini
+
+19:27:54: Initializing File Menu...
+19:27:54: Initializing GUI Docking.
+19:27:54: Setting OpenGL render state...
+19:27:54: Max Lights used: 4
+19:27:54: Info: GUI Layout loaded from previous session.
+19:27:54: WoW Model Viewer successfully loaded!
+----
+
+19:28:02: Error: Can not enumerate files in directory 'D:\World of Warcraft - 3.3.5a\Data\Cache' (error 3: the system cannot find the path specified.)
+19:28:02: Error: Can not enumerate files in directory 'D:\World of Warcraft - 3.3.5a\Data\Cache\enUS' (error 3: the system cannot find the path specified.)
+19:28:02: - Found MPQ archive: patch-5.MPQ
+19:28:02: - Found MPQ archive: patch-4.MPQ
+19:28:02: - Found MPQ archive: patch-3.MPQ
+19:28:02: - Found MPQ archive: patch-2.MPQ
+19:28:02: - Found MPQ archive: patch.MPQ
+19:28:02: - Found MPQ archive: lichking.MPQ
+19:28:02: - Found MPQ archive: expansion.MPQ
+19:28:02: - Found MPQ archive: common-2.MPQ
+19:28:02: - Found MPQ archive: common.MPQ
+19:28:02: Initializing Archives...
+19:28:02: Game Data Path: D:\World of Warcraft - 3.3.5a\Data\
+19:28:02: Use Local Files: false
+
+19:28:02: Opening patch-5.MPQ 
+19:28:02: Opening patch-4.MPQ 
+19:28:02: Opening patch-3.MPQ 
+19:28:02: Opening patch-2.MPQ 
+19:28:02: Opening patch.MPQ 
+19:28:02: Opening lichking.MPQ 
+19:28:02: Opening expansion.MPQ 
+19:28:02: Opening common-2.MPQ 
+19:28:02: Opening common.MPQ 
+19:28:02: Opening enUS\patch-enUS-3.MPQ 
+19:28:02: Opening enUS\patch-enUS-2.MPQ 
+19:28:02: Opening enUS\patch-enUS.MPQ 
+19:28:02: Opening enUS\lichking-locale-enUS.MPQ 
+19:28:02: Opening enUS\expansion-locale-enUS.MPQ 
+19:28:02: Opening enUS\locale-enUS.MPQ 
+19:28:02: Opening enUS\base-enUS.MPQ 
+19:28:02: Loaded Content TOC: v3.03.00
+19:28:02: Compatible Wrath of the Lich King Version Found.
+19:28:04: Loaded Content Version: 12340
+19:28:04: InitMPQArchives result: Successfully Initialized.
+19:28:04: Initializing File Controls...
+19:28:04: Loading user skins from 'R:\Work\DEV\TOOLS\WoW Model Viewer\userSettings\Skins.txt'
+19:28:04: User skins R:\Work\DEV\TOOLS\WoW Model Viewer\userSettings\Skins.txt loaded
+19:28:04: Initializing Databases...
+19:28:05: Error: Could not open the Item Sparse DB.
+19:28:05: Trying to open enUS\items.csv file (for updating locale files)
+19:28:05: Finished initiating database files.
+19:28:17: Loading model: Creature\Celestialdragonwyrm\celestialdragonwyrm.m2, size: 466592
+
+19:28:17: Loading texture: WORLD\EXPANSION02\DOODADS\ULDUAR\UL_STATUEBASE_01.BLP
+19:28:17: Info: Added WORLD\EXPANSION02\DOODADS\ULDUAR\UL_STATUEBASE_01.BLP to the TextureList[1].
+19:28:17: Loading texture: WORLD\EXPANSION02\DOODADS\ULDUAR\UL_STATUEBASE_01_REF.BLP
+19:28:17: Info: Added WORLD\EXPANSION02\DOODADS\ULDUAR\UL_STATUEBASE_01_REF.BLP to the TextureList[2].
+19:28:17: Loading texture: WORLD\EXPANSION02\DOODADS\ULDUAR\UL_TITANSTAR_01.BLP
+19:28:17: Info: Added WORLD\EXPANSION02\DOODADS\ULDUAR\UL_TITANSTAR_01.BLP to the TextureList[3].
+19:28:17: Loading texture: PARTICLES\STAR11B.BLP
+19:28:17: Info: Added PARTICLES\STAR11B.BLP to the TextureList[4].
+19:28:17: Loading texture: CREATURE\CELESTIALHORSE\CELETSIALHORSE.BLP
+19:28:17: Info: Added CREATURE\CELESTIALHORSE\CELETSIALHORSE.BLP to the TextureList[5].
+19:28:17: Loading texture: CREATURE\CHINESEDRAGON\CHINESEDRAGONSKINGREEN.BLP
+19:28:17: Info: Added CREATURE\CHINESEDRAGON\CHINESEDRAGONSKINGREEN.BLP to the TextureList[6].
+19:28:17: Loading texture: SPELLS\STAR8C.BLP
+19:28:17: Info: Added SPELLS\STAR8C.BLP to the TextureList[7].
+19:28:17: Loading texture: CREATURE\CHINESEDRAGON\CHINESEDRAGONWINGGREEN.BLP
+19:28:17: Info: Added CREATURE\CHINESEDRAGON\CHINESEDRAGONWINGGREEN.BLP to the TextureList[8].
+19:28:17: flags : 10
+19:28:17: shading : 0
+19:28:17: op : 0
+19:28:17: op2 : 0
+19:28:17: colorIndex : 0
+19:28:17: flagsIndex : 0
+19:28:17: texunit : 0
+19:28:17: mode : 2
+19:28:17: textureid : 0
+19:28:17: texunit2 : 0
+19:28:17: transid : 0
+19:28:17: texanimid : 0
+19:28:17: === ModelView ===
+19:28:17: id : 032252226240
+19:28:17: nIndex : 2158
+19:28:17: ofsIndex : 48
+19:28:17: nTris : 7254
+19:28:17: ofsTris : 4368
+19:28:17: nProps : 2158
+19:28:17: ofsProps : 18880
+19:28:17: nSub : 5
+19:28:17: ofsSub : 27520
+19:28:17: nTex : 5
+19:28:17: ofsTex : 27760
+19:28:17: lod : 64
+19:28:17: Using original Camera Model Definitions.
+19:28:17: Using original Camera Model Definitions.
+19:28:17: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:28:17: Update model: Creature\Celestialdragonwyrm\celestialdragonwyrm.m2
+19:28:17: Searching skins for 'Creature\Celestialdragonwyrm\celestialdragonwyrm.m2'
+19:28:17: Found model in CreatureModelDB, id: 3356
+19:28:29: Loading model: Creature\Celestialhorse\celestialhorse.m2, size: 580496
+
+19:28:29: Loading texture: WORLD\EXPANSION02\DOODADS\ULDUAR\UL_STATUEBASE_01.BLP
+19:28:29: Info: Added WORLD\EXPANSION02\DOODADS\ULDUAR\UL_STATUEBASE_01.BLP to the TextureList[1].
+19:28:29: Loading texture: CREATURE\CELESTIALHORSE\TEX_CELHORSE_REF.BLP
+19:28:29: Info: Added CREATURE\CELESTIALHORSE\TEX_CELHORSE_REF.BLP to the TextureList[2].
+19:28:29: Loading texture: WORLD\EXPANSION02\DOODADS\ULDUAR\UL_TITANSTAR_01.BLP
+19:28:29: Info: Added WORLD\EXPANSION02\DOODADS\ULDUAR\UL_TITANSTAR_01.BLP to the TextureList[3].
+19:28:29: Loading texture: CREATURE\CELESTIALHORSE\CELETSIALHORSE.BLP
+19:28:29: Info: Added CREATURE\CELESTIALHORSE\CELETSIALHORSE.BLP to the TextureList[4].
+19:28:29: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ORBREFLECTBRIGHT.BLP
+19:28:29: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ORBREFLECTBRIGHT.BLP to the TextureList[5].
+19:28:29: Loading texture: CREATURE\CELESTIALHORSE\TEX_CELHORSE_ANIM.BLP
+19:28:29: Info: Added CREATURE\CELESTIALHORSE\TEX_CELHORSE_ANIM.BLP to the TextureList[6].
+19:28:29: Loading texture: SPELLS\CLOUDS8X8.BLP
+19:28:29: Info: Added SPELLS\CLOUDS8X8.BLP to the TextureList[7].
+19:28:29: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\FROSTMOURNEBLADE.BLP
+19:28:29: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\FROSTMOURNEBLADE.BLP to the TextureList[8].
+19:28:29: Loading texture: CREATURE\ALGLONTHEOBSERVER\ALGALONTHEOBSERVER_03.BLP
+19:28:29: Info: Added CREATURE\ALGLONTHEOBSERVER\ALGALONTHEOBSERVER_03.BLP to the TextureList[9].
+19:28:29: Loading texture: CREATURE\WISP\STAR2_32.BLP
+19:28:29: Info: Added CREATURE\WISP\STAR2_32.BLP to the TextureList[10].
+19:28:29: flags : 310
+19:28:29: shading : 0
+19:28:29: op : 8
+19:28:29: op2 : 8
+19:28:29: colorIndex : 0
+19:28:29: flagsIndex : 9
+19:28:29: texunit : 0
+19:28:29: mode : 1
+19:28:29: textureid : 6
+19:28:29: texunit2 : 2
+19:28:29: transid : 2
+19:28:29: texanimid : 0
+19:28:29: === ModelView ===
+19:28:29: id : 032440125360
+19:28:29: nIndex : 1930
+19:28:29: ofsIndex : 48
+19:28:29: nTris : 7326
+19:28:29: ofsTris : 3920
+19:28:29: nProps : 1930
+19:28:29: ofsProps : 18576
+19:28:29: nSub : 9
+19:28:29: ofsSub : 26304
+19:28:29: nTex : 10
+19:28:29: ofsTex : 26736
+19:28:29: lod : 64
+19:28:29: Using original Camera Model Definitions.
+19:28:29: Using original Camera Model Definitions.
+19:28:29: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:28:29: Update model: Creature\Celestialhorse\celestialhorse.m2
+19:28:29: Searching skins for 'Creature\Celestialhorse\celestialhorse.m2'
+19:28:29: Found model in CreatureModelDB, id: 3358
+19:28:29: Info: Added Creature\Celestialhorse\celetsialhorse.blp to the TextureList[10] via FillSkinSelector.
+19:28:29: Info: Added Creature\Celestialhorse\tex_celhorse_anim.blp to the TextureList[11] via FillSkinSelector.
+19:28:29: Info: Added Creature\Celestialhorse\tex_celhorse_ref.blp to the TextureList[12] via FillSkinSelector.
+19:28:39: Loading model: Creature\Cupid\cupid.m2, size: 134720
+
+19:28:39: Loading texture: CREATURE\CUPID\GOBLINCUPID.BLP
+19:28:39: Info: Added CREATURE\CUPID\GOBLINCUPID.BLP to the TextureList[1].
+19:28:39: Info: Added Special_11 to the TextureList[1] via specialTextures. Type: 11
+19:28:39: Loading texture: SPELLS\HOLIDAYS\VALENTINESCUPIDSARROW.BLP
+19:28:39: Info: Added SPELLS\HOLIDAYS\VALENTINESCUPIDSARROW.BLP to the TextureList[3].
+19:28:39: Loading texture: SPELLS\HOLIDAYS\SPELLOBJECT_CUPIDSBOW.BLP
+19:28:39: Info: Added SPELLS\HOLIDAYS\SPELLOBJECT_CUPIDSBOW.BLP to the TextureList[4].
+19:28:39: Loading texture: ITEM\OBJECTCOMPONENTS\HEAD\SMOOTHREFLECT.BLP
+19:28:39: Info: Added ITEM\OBJECTCOMPONENTS\HEAD\SMOOTHREFLECT.BLP to the TextureList[5].
+19:28:39: Loading texture: ITEM\OBJECTCOMPONENTS\QUIVER\QUIVER_ALLIANCE_A_01\QUIVER_ALLIANCE_A_01RED.BLP
+19:28:39: Info: Added ITEM\OBJECTCOMPONENTS\QUIVER\QUIVER_ALLIANCE_A_01\QUIVER_ALLIANCE_A_01RED.BLP to the TextureList[6].
+19:28:39: Loading texture: CREATURE\CUPID\WINGWHITE.BLP
+19:28:39: Info: Added CREATURE\CUPID\WINGWHITE.BLP to the TextureList[7].
+19:28:39: flags : 10
+19:28:39: shading : 0
+19:28:39: op : 0
+19:28:39: op2 : 0
+19:28:39: colorIndex : -1
+19:28:39: flagsIndex : 0
+19:28:39: texunit : 0
+19:28:39: mode : 1
+19:28:39: textureid : 0
+19:28:39: texunit2 : 0
+19:28:39: transid : 0
+19:28:39: texanimid : 0
+19:28:39: === ModelView ===
+19:28:39: id : 012440125360
+19:28:39: nIndex : 1096
+19:28:39: ofsIndex : 48
+19:28:39: nTris : 3930
+19:28:39: ofsTris : 2240
+19:28:39: nProps : 1096
+19:28:39: ofsProps : 10112
+19:28:39: nSub : 14
+19:28:39: ofsSub : 14496
+19:28:39: nTex : 14
+19:28:39: ofsTex : 15168
+19:28:39: lod : 53
+19:28:39: Using original Camera Model Definitions.
+19:28:39: Using original Camera Model Definitions.
+19:28:39: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:28:39: Update model: Creature\Cupid\cupid.m2
+19:28:39: Searching skins for 'Creature\Cupid\cupid.m2'
+19:28:39: Found model in CreatureModelDB, id: 2237
+19:28:39: Info: Added Creature\Cupid\GoblinCupid.blp to the TextureList[7] via FillSkinSelector.
+19:28:39: Info: Added Creature\Cupid\goblincupid.blp to the TextureList[8] via FillSkinSelector.
+19:28:39: Info: Added Creature\Cupid\wingwhite.blp to the TextureList[9] via FillSkinSelector.
+19:28:39: Loading texture: Creature\Cupid\GoblinCupid.blp
+19:28:44: Loading model: Creature\Deathwing\deathwing.m2, size: 4426320
+
+19:28:44: Loading texture: CREATURE\DEATHWING\DEATHWING3.BLP
+19:28:44: Info: Added CREATURE\DEATHWING\DEATHWING3.BLP to the TextureList[1].
+19:28:44: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP
+19:28:44: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP to the TextureList[2].
+19:28:44: Loading texture: CREATURE\DEATHWING\DEATHWING3_GLOW.BLP
+19:28:44: Info: Added CREATURE\DEATHWING\DEATHWING3_GLOW.BLP to the TextureList[3].
+19:28:44: Error: Could not load the texture 'WORLD\EXPANSION03\DOODADS\GENERIC\ELEMENTIUMORE\ELEMENTIUM_0RE_01_MASK.BLP'
+19:28:44: Info: Added WORLD\EXPANSION03\DOODADS\GENERIC\ELEMENTIUMORE\ELEMENTIUM_0RE_01_MASK.BLP to the TextureList[4].
+19:28:44: Loading texture: CREATURE\DEATHWING\DEATHWING2.BLP
+19:28:44: Info: Added CREATURE\DEATHWING\DEATHWING2.BLP to the TextureList[5].
+19:28:44: Loading texture: CREATURE\DEATHWING\DEATHWING2_GLOW.BLP
+19:28:44: Info: Added CREATURE\DEATHWING\DEATHWING2_GLOW.BLP to the TextureList[6].
+19:28:44: Loading texture: CREATURE\DEATHWING\DEATHWING1.BLP
+19:28:44: Info: Added CREATURE\DEATHWING\DEATHWING1.BLP to the TextureList[7].
+19:28:44: Loading texture: CREATURE\DEATHWING\DEATHWING1_GLOW.BLP
+19:28:44: Info: Added CREATURE\DEATHWING\DEATHWING1_GLOW.BLP to the TextureList[8].
+19:28:44: flags : 0
+19:28:44: shading : 0
+19:28:44: op : 0
+19:28:44: op2 : 0
+19:28:44: colorIndex : -1
+19:28:44: flagsIndex : 0
+19:28:44: texunit : 0
+19:28:44: mode : 1
+19:28:44: textureid : 0
+19:28:44: texunit2 : 0
+19:28:44: transid : 0
+19:28:44: texanimid : 0
+19:28:44: === ModelView ===
+19:28:44: id : 012440125360
+19:28:44: nIndex : 6163
+19:28:44: ofsIndex : 64
+19:28:44: nTris : 20370
+19:28:44: ofsTris : 12400
+19:28:44: nProps : 6163
+19:28:44: ofsProps : 53152
+19:28:44: nSub : 8
+19:28:44: ofsSub : 77808
+19:28:44: nTex : 8
+19:28:44: ofsTex : 78192
+19:28:44: lod : 0
+19:28:44: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:28:44: Update model: Creature\Deathwing\deathwing.m2
+19:28:44: Searching skins for 'Creature\Deathwing\deathwing.m2'
+19:28:44: Found model in CreatureModelDB, id: 3452
+19:28:44: Info: Added Creature\Deathwing\Deathwing1.blp to the TextureList[8] via FillSkinSelector.
+19:28:44: Info: Added Creature\Deathwing\deathwing1.blp to the TextureList[9] via FillSkinSelector.
+19:28:44: Info: Added Creature\Deathwing\deathwing1_glow.blp to the TextureList[10] via FillSkinSelector.
+19:28:44: Info: Added Creature\Deathwing\deathwing2.blp to the TextureList[11] via FillSkinSelector.
+19:28:44: Info: Added Creature\Deathwing\deathwing2_glow.blp to the TextureList[12] via FillSkinSelector.
+19:28:44: Info: Added Creature\Deathwing\deathwing3.blp to the TextureList[13] via FillSkinSelector.
+19:28:44: Info: Added Creature\Deathwing\deathwing3_glow.blp to the TextureList[14] via FillSkinSelector.
+19:28:44: Info: Added Creature\Deathwing\deathwingraid1.blp to the TextureList[15] via FillSkinSelector.
+19:28:44: Info: Added Creature\Deathwing\deathwingraid2.blp to the TextureList[16] via FillSkinSelector.
+19:28:44: Info: Added Creature\Deathwing\deathwingraid3.blp to the TextureList[17] via FillSkinSelector.
+19:28:44: Info: Added Creature\Deathwing\deathwingraidarm.blp to the TextureList[18] via FillSkinSelector.
+19:28:44: Info: Added Creature\Deathwing\deathwingraidwing.blp to the TextureList[19] via FillSkinSelector.
+19:28:47: Loading model: Creature\Deathwing\deathwing_backplate_test01_creature.m2, size: 7776
+
+19:28:47: Loading texture: CREATURE\DEATHWING\DEATHWING2.BLP
+19:28:47: Info: Added CREATURE\DEATHWING\DEATHWING2.BLP to the TextureList[1].
+19:28:47: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP
+19:28:47: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP to the TextureList[2].
+19:28:47: Error: Could not load the texture 'WORLD\EXPANSION03\DOODADS\GENERIC\ELEMENTIUMORE\ELEMENTIUM_0RE_01_MASK.BLP'
+19:28:47: Info: Added WORLD\EXPANSION03\DOODADS\GENERIC\ELEMENTIUMORE\ELEMENTIUM_0RE_01_MASK.BLP to the TextureList[3].
+19:28:47: flags : 0
+19:28:47: shading : 0
+19:28:47: op : 0
+19:28:47: op2 : 0
+19:28:47: colorIndex : -1
+19:28:47: flagsIndex : 0
+19:28:47: texunit : 0
+19:28:47: mode : 1
+19:28:47: textureid : 0
+19:28:47: texunit2 : 0
+19:28:47: transid : 0
+19:28:47: texanimid : 0
+19:28:47: === ModelView ===
+19:28:47: id : 012440125360
+19:28:47: nIndex : 96
+19:28:47: ofsIndex : 64
+19:28:47: nTris : 162
+19:28:47: ofsTris : 256
+19:28:47: nProps : 96
+19:28:47: ofsProps : 592
+19:28:47: nSub : 1
+19:28:47: ofsSub : 976
+19:28:47: nTex : 1
+19:28:47: ofsTex : 1024
+19:28:47: lod : 0
+19:28:47: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:28:47: Update model: Creature\Deathwing\deathwing_backplate_test01_creature.m2
+19:28:47: Searching skins for 'Creature\Deathwing\deathwing_backplate_test01_creature.m2'
+19:28:47: CreatureModelDB::getByFilename Creature\Deathwing\deathwing_backplate_test01_creature => 3039 tests !!! NOT FOUND !!!
+19:28:47: CreatureModelDB not found !!!
+19:28:48: Info: Added Creature\Deathwing\deathwing1.blp to the TextureList[3] via FillSkinSelector.
+19:28:48: Info: Added Creature\Deathwing\deathwing1_glow.blp to the TextureList[4] via FillSkinSelector.
+19:28:48: Info: Added Creature\Deathwing\deathwing2.blp to the TextureList[5] via FillSkinSelector.
+19:28:48: Info: Added Creature\Deathwing\deathwing2_glow.blp to the TextureList[6] via FillSkinSelector.
+19:28:48: Info: Added Creature\Deathwing\deathwing3.blp to the TextureList[7] via FillSkinSelector.
+19:28:48: Info: Added Creature\Deathwing\deathwing3_glow.blp to the TextureList[8] via FillSkinSelector.
+19:28:48: Info: Added Creature\Deathwing\deathwingraid1.blp to the TextureList[9] via FillSkinSelector.
+19:28:48: Info: Added Creature\Deathwing\deathwingraid2.blp to the TextureList[10] via FillSkinSelector.
+19:28:48: Info: Added Creature\Deathwing\deathwingraid3.blp to the TextureList[11] via FillSkinSelector.
+19:28:48: Info: Added Creature\Deathwing\deathwingraidarm.blp to the TextureList[12] via FillSkinSelector.
+19:28:48: Info: Added Creature\Deathwing\deathwingraidwing.blp to the TextureList[13] via FillSkinSelector.
+19:28:49: Loading model: Creature\Deathwing\deathwing_backplate_test02_creature.m2, size: 7840
+
+19:28:49: Loading texture: CREATURE\DEATHWING\DEATHWING2.BLP
+19:28:49: Info: Added CREATURE\DEATHWING\DEATHWING2.BLP to the TextureList[1].
+19:28:49: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP
+19:28:49: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP to the TextureList[2].
+19:28:49: Error: Could not load the texture 'WORLD\EXPANSION03\DOODADS\GENERIC\ELEMENTIUMORE\ELEMENTIUM_0RE_01_MASK.BLP'
+19:28:49: Info: Added WORLD\EXPANSION03\DOODADS\GENERIC\ELEMENTIUMORE\ELEMENTIUM_0RE_01_MASK.BLP to the TextureList[3].
+19:28:49: flags : 0
+19:28:49: shading : 0
+19:28:49: op : 0
+19:28:49: op2 : 0
+19:28:49: colorIndex : -1
+19:28:49: flagsIndex : 0
+19:28:49: texunit : 0
+19:28:49: mode : 1
+19:28:49: textureid : 0
+19:28:49: texunit2 : 0
+19:28:49: transid : 0
+19:28:49: texanimid : 0
+19:28:49: === ModelView ===
+19:28:49: id : 012440125360
+19:28:49: nIndex : 96
+19:28:49: ofsIndex : 64
+19:28:49: nTris : 156
+19:28:49: ofsTris : 256
+19:28:49: nProps : 96
+19:28:49: ofsProps : 576
+19:28:49: nSub : 1
+19:28:49: ofsSub : 960
+19:28:49: nTex : 1
+19:28:49: ofsTex : 1008
+19:28:49: lod : 0
+19:28:49: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:28:49: Update model: Creature\Deathwing\deathwing_backplate_test02_creature.m2
+19:28:49: Searching skins for 'Creature\Deathwing\deathwing_backplate_test02_creature.m2'
+19:28:49: CreatureModelDB::getByFilename Creature\Deathwing\deathwing_backplate_test02_creature => 3039 tests !!! NOT FOUND !!!
+19:28:49: CreatureModelDB not found !!!
+19:28:49: Info: Added Creature\Deathwing\deathwing1.blp to the TextureList[3] via FillSkinSelector.
+19:28:49: Info: Added Creature\Deathwing\deathwing1_glow.blp to the TextureList[4] via FillSkinSelector.
+19:28:49: Info: Added Creature\Deathwing\deathwing2.blp to the TextureList[5] via FillSkinSelector.
+19:28:49: Info: Added Creature\Deathwing\deathwing2_glow.blp to the TextureList[6] via FillSkinSelector.
+19:28:49: Info: Added Creature\Deathwing\deathwing3.blp to the TextureList[7] via FillSkinSelector.
+19:28:49: Info: Added Creature\Deathwing\deathwing3_glow.blp to the TextureList[8] via FillSkinSelector.
+19:28:49: Info: Added Creature\Deathwing\deathwingraid1.blp to the TextureList[9] via FillSkinSelector.
+19:28:49: Info: Added Creature\Deathwing\deathwingraid2.blp to the TextureList[10] via FillSkinSelector.
+19:28:49: Info: Added Creature\Deathwing\deathwingraid3.blp to the TextureList[11] via FillSkinSelector.
+19:28:49: Info: Added Creature\Deathwing\deathwingraidarm.blp to the TextureList[12] via FillSkinSelector.
+19:28:49: Info: Added Creature\Deathwing\deathwingraidwing.blp to the TextureList[13] via FillSkinSelector.
+19:28:49: Loading model: Creature\Deathwing\deathwing_backplate_test03_creature.m2, size: 7632
+
+19:28:49: Loading texture: CREATURE\DEATHWING\DEATHWING2.BLP
+19:28:49: Info: Added CREATURE\DEATHWING\DEATHWING2.BLP to the TextureList[1].
+19:28:49: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP
+19:28:49: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP to the TextureList[2].
+19:28:49: Error: Could not load the texture 'WORLD\EXPANSION03\DOODADS\GENERIC\ELEMENTIUMORE\ELEMENTIUM_0RE_01_MASK.BLP'
+19:28:49: Info: Added WORLD\EXPANSION03\DOODADS\GENERIC\ELEMENTIUMORE\ELEMENTIUM_0RE_01_MASK.BLP to the TextureList[3].
+19:28:49: flags : 0
+19:28:49: shading : 0
+19:28:49: op : 0
+19:28:49: op2 : 0
+19:28:49: colorIndex : -1
+19:28:49: flagsIndex : 0
+19:28:49: texunit : 0
+19:28:49: mode : 1
+19:28:49: textureid : 0
+19:28:49: texunit2 : 0
+19:28:49: transid : 0
+19:28:49: texanimid : 0
+19:28:49: === ModelView ===
+19:28:49: id : 012440125360
+19:28:49: nIndex : 93
+19:28:49: ofsIndex : 64
+19:28:49: nTris : 156
+19:28:49: ofsTris : 256
+19:28:49: nProps : 93
+19:28:49: ofsProps : 576
+19:28:49: nSub : 1
+19:28:49: ofsSub : 960
+19:28:49: nTex : 1
+19:28:49: ofsTex : 1008
+19:28:49: lod : 0
+19:28:49: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:28:49: Update model: Creature\Deathwing\deathwing_backplate_test03_creature.m2
+19:28:49: Searching skins for 'Creature\Deathwing\deathwing_backplate_test03_creature.m2'
+19:28:49: CreatureModelDB::getByFilename Creature\Deathwing\deathwing_backplate_test03_creature => 3039 tests !!! NOT FOUND !!!
+19:28:49: CreatureModelDB not found !!!
+19:28:50: Info: Added Creature\Deathwing\deathwing1.blp to the TextureList[3] via FillSkinSelector.
+19:28:50: Info: Added Creature\Deathwing\deathwing1_glow.blp to the TextureList[4] via FillSkinSelector.
+19:28:50: Info: Added Creature\Deathwing\deathwing2.blp to the TextureList[5] via FillSkinSelector.
+19:28:50: Info: Added Creature\Deathwing\deathwing2_glow.blp to the TextureList[6] via FillSkinSelector.
+19:28:50: Info: Added Creature\Deathwing\deathwing3.blp to the TextureList[7] via FillSkinSelector.
+19:28:50: Info: Added Creature\Deathwing\deathwing3_glow.blp to the TextureList[8] via FillSkinSelector.
+19:28:50: Info: Added Creature\Deathwing\deathwingraid1.blp to the TextureList[9] via FillSkinSelector.
+19:28:50: Info: Added Creature\Deathwing\deathwingraid2.blp to the TextureList[10] via FillSkinSelector.
+19:28:50: Info: Added Creature\Deathwing\deathwingraid3.blp to the TextureList[11] via FillSkinSelector.
+19:28:50: Info: Added Creature\Deathwing\deathwingraidarm.blp to the TextureList[12] via FillSkinSelector.
+19:28:50: Info: Added Creature\Deathwing\deathwingraidwing.blp to the TextureList[13] via FillSkinSelector.
+19:28:53: Loading model: Creature\Deathwingcorrupted\deathwingcorrupted.m2, size: 1193632
+
+19:28:53: Loading texture: CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED02.BLP
+19:28:53: Info: Added CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED02.BLP to the TextureList[1].
+19:28:53: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP
+19:28:53: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP to the TextureList[2].
+19:28:53: Loading texture: CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED02GLOW.BLP
+19:28:53: Info: Added CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED02GLOW.BLP to the TextureList[3].
+19:28:53: Loading texture: CREATURE\DEATHWINGCORRUPTED\DW_FIRE01.BLP
+19:28:53: Info: Added CREATURE\DEATHWINGCORRUPTED\DW_FIRE01.BLP to the TextureList[4].
+19:28:53: Loading texture: CREATURE\DEATHWINGCORRUPTED\DW_LAVABLOOD_SPLASH01.BLP
+19:28:53: Info: Added CREATURE\DEATHWINGCORRUPTED\DW_LAVABLOOD_SPLASH01.BLP to the TextureList[5].
+19:28:53: Loading texture: CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED01.BLP
+19:28:53: Info: Added CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED01.BLP to the TextureList[6].
+19:28:53: Loading texture: CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED01GLOW.BLP
+19:28:53: Info: Added CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED01GLOW.BLP to the TextureList[7].
+19:28:53: Error: Could not load the texture 'WORLD\EXPANSION03\DOODADS\GENERIC\ELEMENTIUMORE\ELEMENTIUM_0RE_01_MASK.BLP'
+19:28:53: Info: Added WORLD\EXPANSION03\DOODADS\GENERIC\ELEMENTIUMORE\ELEMENTIUM_0RE_01_MASK.BLP to the TextureList[8].
+19:28:53: Loading texture: SPELLS\T_VFX_LAVA2.BLP
+19:28:53: Info: Added SPELLS\T_VFX_LAVA2.BLP to the TextureList[9].
+19:28:53: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\FLARE.BLP
+19:28:53: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\FLARE.BLP to the TextureList[10].
+19:28:53: Error: Could not load the texture 'WORLD\DUNGEON\FALLOFAZEROTH\DEATHING_DEAD\DEATHWING_LAVABLOOD.BLP'
+19:28:53: Info: Added WORLD\DUNGEON\FALLOFAZEROTH\DEATHING_DEAD\DEATHWING_LAVABLOOD.BLP to the TextureList[11].
+19:28:53: Loading texture: SPELLS\T_VFX_FLARE05_A.BLP
+19:28:53: Info: Added SPELLS\T_VFX_FLARE05_A.BLP to the TextureList[12].
+19:28:53: Loading texture: SPELLS\CIRCLE.BLP
+19:28:53: Info: Added SPELLS\CIRCLE.BLP to the TextureList[13].
+19:28:53: Loading texture: CREATURE\SNOWFLAKECREATURE\T_VFX_FREEZE_C.BLP
+19:28:53: Info: Added CREATURE\SNOWFLAKECREATURE\T_VFX_FREEZE_C.BLP to the TextureList[14].
+19:28:53: Loading texture: SPELLS\T_VFX_FIRE01_A64_BLANK4.BLP
+19:28:53: Info: Added SPELLS\T_VFX_FIRE01_A64_BLANK4.BLP to the TextureList[15].
+19:28:53: Loading texture: SPELLS\T_VFX_FLAR_BLUR_64.BLP
+19:28:53: Info: Added SPELLS\T_VFX_FLAR_BLUR_64.BLP to the TextureList[16].
+19:28:53: Loading texture: SPELLS\RIBBONBLUR1BEA_GOLD.BLP
+19:28:53: Info: Added SPELLS\RIBBONBLUR1BEA_GOLD.BLP to the TextureList[17].
+19:28:53: Loading texture: WORLD\KHAZMODAN\IRONFORGE\PASSIVEDOODADS\THRONE\LAVADRIP.BLP
+19:28:53: Info: Added WORLD\KHAZMODAN\IRONFORGE\PASSIVEDOODADS\THRONE\LAVADRIP.BLP to the TextureList[18].
+19:28:53: Loading texture: SPELLS\FLARE1_TC.BLP
+19:28:53: Info: Added SPELLS\FLARE1_TC.BLP to the TextureList[19].
+19:28:53: Loading texture: SPELLS\T_VFX_FLARE05_A64.BLP
+19:28:53: Info: Added SPELLS\T_VFX_FLARE05_A64.BLP to the TextureList[20].
+19:28:53: flags : 0
+19:28:53: shading : 0
+19:28:53: op : 0
+19:28:53: op2 : 0
+19:28:53: colorIndex : 0
+19:28:53: flagsIndex : 0
+19:28:53: texunit : 0
+19:28:53: mode : 1
+19:28:53: textureid : 0
+19:28:53: texunit2 : 0
+19:28:53: transid : 0
+19:28:53: texanimid : 0
+19:28:53: === ModelView ===
+19:28:53: id : 012440125360
+19:28:53: nIndex : 6953
+19:28:53: ofsIndex : 64
+19:28:53: nTris : 30615
+19:28:53: ofsTris : 13984
+19:28:53: nProps : 6953
+19:28:53: ofsProps : 75216
+19:28:53: nSub : 6
+19:28:53: ofsSub : 103040
+19:28:53: nTex : 6
+19:28:53: ofsTex : 103328
+19:28:53: lod : 0
+19:28:53: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:28:53: Update model: Creature\Deathwingcorrupted\deathwingcorrupted.m2
+19:28:53: Searching skins for 'Creature\Deathwingcorrupted\deathwingcorrupted.m2'
+19:28:53: Found model in CreatureModelDB, id: 4132
+19:28:54: Info: Added Creature\Deathwingcorrupted\DeathwingCorrupted01.blp to the TextureList[20] via FillSkinSelector.
+19:28:54: Info: Added Creature\Deathwingcorrupted\deathwingcorrupted01.blp to the TextureList[21] via FillSkinSelector.
+19:28:54: Info: Added Creature\Deathwingcorrupted\deathwingcorrupted01glow.blp to the TextureList[22] via FillSkinSelector.
+19:28:54: Info: Added Creature\Deathwingcorrupted\deathwingcorrupted02.blp to the TextureList[23] via FillSkinSelector.
+19:28:54: Info: Added Creature\Deathwingcorrupted\deathwingcorrupted02glow.blp to the TextureList[24] via FillSkinSelector.
+19:28:54: Info: Added Creature\Deathwingcorrupted\deathwingcorruptedclaw02.blp to the TextureList[25] via FillSkinSelector.
+19:28:54: Info: Added Creature\Deathwingcorrupted\deathwingcorruptedclaw02glow.blp to the TextureList[26] via FillSkinSelector.
+19:28:54: Info: Added Creature\Deathwingcorrupted\deathwingcorruptedwing02.blp to the TextureList[27] via FillSkinSelector.
+19:28:54: Info: Added Creature\Deathwingcorrupted\deathwingcorruptedwing02glow.blp to the TextureList[28] via FillSkinSelector.
+19:28:54: Info: Added Creature\Deathwingcorrupted\dw_fire01.blp to the TextureList[29] via FillSkinSelector.
+19:28:54: Info: Added Creature\Deathwingcorrupted\dw_lavablood_drips01.blp to the TextureList[30] via FillSkinSelector.
+19:28:54: Info: Added Creature\Deathwingcorrupted\dw_lavablood_splash01.blp to the TextureList[31] via FillSkinSelector.
+19:29:08: Loading model: Creature\Deathwingcorrupted\deathwingcorruptedarmr.m2, size: 86544
+
+19:29:08: Loading texture: CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED02.BLP
+19:29:08: Info: Added CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED02.BLP to the TextureList[1].
+19:29:08: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP
+19:29:08: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP to the TextureList[2].
+19:29:08: Loading texture: CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED02GLOW.BLP
+19:29:08: Info: Added CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED02GLOW.BLP to the TextureList[3].
+19:29:08: Loading texture: CREATURE\DEATHWINGCORRUPTED\DW_FIRE01.BLP
+19:29:08: Info: Added CREATURE\DEATHWINGCORRUPTED\DW_FIRE01.BLP to the TextureList[4].
+19:29:08: Loading texture: CREATURE\DEATHWINGCORRUPTED\DW_LAVABLOOD_SPLASH01.BLP
+19:29:08: Info: Added CREATURE\DEATHWINGCORRUPTED\DW_LAVABLOOD_SPLASH01.BLP to the TextureList[5].
+19:29:08: flags : 0
+19:29:08: shading : 0
+19:29:08: op : 0
+19:29:08: op2 : 0
+19:29:08: colorIndex : -1
+19:29:08: flagsIndex : 0
+19:29:08: texunit : 0
+19:29:08: mode : 1
+19:29:08: textureid : 0
+19:29:08: texunit2 : 0
+19:29:08: transid : 0
+19:29:08: texanimid : 0
+19:29:08: === ModelView ===
+19:29:08: id : 012440125360
+19:29:08: nIndex : 311
+19:29:08: ofsIndex : 64
+19:29:08: nTris : 1167
+19:29:08: ofsTris : 688
+19:29:08: nProps : 311
+19:29:08: ofsProps : 3024
+19:29:08: nSub : 1
+19:29:08: ofsSub : 4272
+19:29:08: nTex : 1
+19:29:08: ofsTex : 4320
+19:29:08: lod : 0
+19:29:08: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:29:08: Update model: Creature\Deathwingcorrupted\deathwingcorruptedarmr.m2
+19:29:08: Searching skins for 'Creature\Deathwingcorrupted\deathwingcorruptedarmr.m2'
+19:29:08: Found model in CreatureModelDB, id: 4225
+19:29:08: Info: Added Creature\Deathwingcorrupted\DeathwingCorrupted01.blp to the TextureList[5] via FillSkinSelector.
+19:29:08: Info: Added Creature\Deathwingcorrupted\deathwingcorrupted01.blp to the TextureList[6] via FillSkinSelector.
+19:29:08: Info: Added Creature\Deathwingcorrupted\deathwingcorrupted01glow.blp to the TextureList[7] via FillSkinSelector.
+19:29:08: Info: Added Creature\Deathwingcorrupted\deathwingcorrupted02.blp to the TextureList[8] via FillSkinSelector.
+19:29:08: Info: Added Creature\Deathwingcorrupted\deathwingcorrupted02glow.blp to the TextureList[9] via FillSkinSelector.
+19:29:08: Info: Added Creature\Deathwingcorrupted\deathwingcorruptedclaw02.blp to the TextureList[10] via FillSkinSelector.
+19:29:08: Info: Added Creature\Deathwingcorrupted\deathwingcorruptedclaw02glow.blp to the TextureList[11] via FillSkinSelector.
+19:29:08: Info: Added Creature\Deathwingcorrupted\deathwingcorruptedwing02.blp to the TextureList[12] via FillSkinSelector.
+19:29:08: Info: Added Creature\Deathwingcorrupted\deathwingcorruptedwing02glow.blp to the TextureList[13] via FillSkinSelector.
+19:29:08: Info: Added Creature\Deathwingcorrupted\dw_fire01.blp to the TextureList[14] via FillSkinSelector.
+19:29:08: Info: Added Creature\Deathwingcorrupted\dw_lavablood_drips01.blp to the TextureList[15] via FillSkinSelector.
+19:29:08: Info: Added Creature\Deathwingcorrupted\dw_lavablood_splash01.blp to the TextureList[16] via FillSkinSelector.
+19:29:13: Loading model: Creature\Deathwingcorrupted\smalldeathwingcorrupted.m2, size: 969456
+
+19:29:13: Loading texture: CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED02.BLP
+19:29:13: Info: Added CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED02.BLP to the TextureList[1].
+19:29:13: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP
+19:29:13: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT_RAINBOW.BLP to the TextureList[2].
+19:29:13: Loading texture: CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED02GLOW.BLP
+19:29:13: Info: Added CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED02GLOW.BLP to the TextureList[3].
+19:29:13: Loading texture: CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED01.BLP
+19:29:13: Info: Added CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED01.BLP to the TextureList[4].
+19:29:13: Loading texture: CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED01GLOW.BLP
+19:29:13: Info: Added CREATURE\DEATHWINGCORRUPTED\DEATHWINGCORRUPTED01GLOW.BLP to the TextureList[5].
+19:29:13: Error: Could not load the texture 'WORLD\EXPANSION03\DOODADS\GENERIC\ELEMENTIUMORE\ELEMENTIUM_0RE_01_MASK.BLP'
+19:29:13: Info: Added WORLD\EXPANSION03\DOODADS\GENERIC\ELEMENTIUMORE\ELEMENTIUM_0RE_01_MASK.BLP to the TextureList[6].
+19:29:13: Error: Could not load the texture 'WORLD\DUNGEON\FALLOFAZEROTH\DEATHING_DEAD\DEATHWING_LAVABLOOD.BLP'
+19:29:13: Info: Added WORLD\DUNGEON\FALLOFAZEROTH\DEATHING_DEAD\DEATHWING_LAVABLOOD.BLP to the TextureList[7].
+19:29:13: Loading texture: SPELLS\CIRCLE.BLP
+19:29:13: Info: Added SPELLS\CIRCLE.BLP to the TextureList[8].
+19:29:13: Loading texture: WORLD\KHAZMODAN\IRONFORGE\PASSIVEDOODADS\THRONE\LAVADRIP.BLP
+19:29:13: Info: Added WORLD\KHAZMODAN\IRONFORGE\PASSIVEDOODADS\THRONE\LAVADRIP.BLP to the TextureList[9].
+19:29:13: flags : 0
+19:29:13: shading : 0
+19:29:13: op : 0
+19:29:13: op2 : 0
+19:29:13: colorIndex : 0
+19:29:13: flagsIndex : 0
+19:29:13: texunit : 0
+19:29:13: mode : 1
+19:29:13: textureid : 0
+19:29:13: texunit2 : 0
+19:29:13: transid : 0
+19:29:13: texanimid : 0
+19:29:13: === ModelView ===
+19:29:13: id : 012440125360
+19:29:13: nIndex : 6953
+19:29:13: ofsIndex : 64
+19:29:13: nTris : 30615
+19:29:13: ofsTris : 13984
+19:29:13: nProps : 6953
+19:29:13: ofsProps : 75216
+19:29:13: nSub : 6
+19:29:13: ofsSub : 103040
+19:29:13: nTex : 6
+19:29:13: ofsTex : 103328
+19:29:13: lod : 0
+19:29:13: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:29:13: Update model: Creature\Deathwingcorrupted\smalldeathwingcorrupted.m2
+19:29:13: Searching skins for 'Creature\Deathwingcorrupted\smalldeathwingcorrupted.m2'
+19:29:13: Found model in CreatureModelDB, id: 4288
+19:29:13: Info: Added Creature\Deathwingcorrupted\deathwingcorrupted01.blp to the TextureList[9] via FillSkinSelector.
+19:29:13: Info: Added Creature\Deathwingcorrupted\deathwingcorrupted01glow.blp to the TextureList[10] via FillSkinSelector.
+19:29:13: Info: Added Creature\Deathwingcorrupted\deathwingcorrupted02.blp to the TextureList[11] via FillSkinSelector.
+19:29:13: Info: Added Creature\Deathwingcorrupted\deathwingcorrupted02glow.blp to the TextureList[12] via FillSkinSelector.
+19:29:13: Info: Added Creature\Deathwingcorrupted\deathwingcorruptedclaw02.blp to the TextureList[13] via FillSkinSelector.
+19:29:13: Info: Added Creature\Deathwingcorrupted\deathwingcorruptedclaw02glow.blp to the TextureList[14] via FillSkinSelector.
+19:29:13: Info: Added Creature\Deathwingcorrupted\deathwingcorruptedwing02.blp to the TextureList[15] via FillSkinSelector.
+19:29:13: Info: Added Creature\Deathwingcorrupted\deathwingcorruptedwing02glow.blp to the TextureList[16] via FillSkinSelector.
+19:29:13: Info: Added Creature\Deathwingcorrupted\dw_fire01.blp to the TextureList[17] via FillSkinSelector.
+19:29:13: Info: Added Creature\Deathwingcorrupted\dw_lavablood_drips01.blp to the TextureList[18] via FillSkinSelector.
+19:29:13: Info: Added Creature\Deathwingcorrupted\dw_lavablood_splash01.blp to the TextureList[19] via FillSkinSelector.
+19:29:31: Loading model: Creature\Demolishervehicle\demolishervehicle.m2, size: 731712
+
+19:29:31: Info: Added Special_11 to the TextureList[0] via specialTextures. Type: 11
+19:29:31: Loading texture: CREATURE\DEMOLISHERVEHICLE\DEMOLISHERVEHICLE01_GLOW.BLP
+19:29:31: Info: Added CREATURE\DEMOLISHERVEHICLE\DEMOLISHERVEHICLE01_GLOW.BLP to the TextureList[2].
+19:29:31: Loading texture: SPELLS\TOONSMOKE16.BLP
+19:29:31: Info: Added SPELLS\TOONSMOKE16.BLP to the TextureList[3].
+19:29:31: Loading texture: SPELLS\T_VFX_FLARE05.BLP
+19:29:31: Info: Added SPELLS\T_VFX_FLARE05.BLP to the TextureList[4].
+19:29:31: Loading texture: SPELLS\T_VFX_FIRE05_B.BLP
+19:29:31: Info: Added SPELLS\T_VFX_FIRE05_B.BLP to the TextureList[5].
+19:29:31: Loading texture: SPELLS\T_VFX_FIRE01_A64.BLP
+19:29:31: Info: Added SPELLS\T_VFX_FIRE01_A64.BLP to the TextureList[6].
+19:29:31: Loading texture: SPELLS\T_VFX_FIRE01_B64.BLP
+19:29:31: Info: Added SPELLS\T_VFX_FIRE01_B64.BLP to the TextureList[7].
+19:29:31: Loading texture: SPELLS\T_VFX_FIRE01_C64.BLP
+19:29:31: Info: Added SPELLS\T_VFX_FIRE01_C64.BLP to the TextureList[8].
+19:29:31: Loading texture: PARTICLES\SNOW1.BLP
+19:29:31: Info: Added PARTICLES\SNOW1.BLP to the TextureList[9].
+19:29:31: Loading texture: SPELLS\T_VFX_SMOKE64.BLP
+19:29:31: Info: Added SPELLS\T_VFX_SMOKE64.BLP to the TextureList[10].
+19:29:31: Info: Added Special_12 to the TextureList[10] via specialTextures. Type: 12
+19:29:31: flags : 10
+19:29:31: shading : 0
+19:29:31: op : 2
+19:29:31: op2 : 2
+19:29:31: colorIndex : 0
+19:29:31: flagsIndex : 0
+19:29:31: texunit : 0
+19:29:31: mode : 2
+19:29:31: textureid : 0
+19:29:31: texunit2 : 0
+19:29:31: transid : 0
+19:29:31: texanimid : 0
+19:29:31: === ModelView ===
+19:29:31: id : 012440125360
+19:29:31: nIndex : 5481
+19:29:31: ofsIndex : 48
+19:29:31: nTris : 21426
+19:29:31: ofsTris : 11024
+19:29:31: nProps : 5481
+19:29:31: ofsProps : 53888
+19:29:31: nSub : 3
+19:29:31: ofsSub : 75824
+19:29:31: nTex : 3
+19:29:31: ofsTex : 75968
+19:29:31: lod : 53
+19:29:31: Using original Camera Model Definitions.
+19:29:31: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:29:31: Update model: Creature\Demolishervehicle\demolishervehicle.m2
+19:29:31: Searching skins for 'Creature\Demolishervehicle\demolishervehicle.m2'
+19:29:31: Found model in CreatureModelDB, id: 2797
+19:29:31: Info: Added Creature\Demolishervehicle\DemolisherVehicle01.blp to the TextureList[11] via FillSkinSelector.
+19:29:31: Info: Added Creature\Demolishervehicle\DemolisherVehicle01_Neutral.blp to the TextureList[12] via FillSkinSelector.
+19:29:31: Info: Added Creature\Demolishervehicle\demolishervehicle01.blp to the TextureList[13] via FillSkinSelector.
+19:29:31: Info: Added Creature\Demolishervehicle\demolishervehicle01_glow.blp to the TextureList[14] via FillSkinSelector.
+19:29:31: Info: Added Creature\Demolishervehicle\demolishervehicle01_neutral.blp to the TextureList[15] via FillSkinSelector.
+19:29:31: Info: Added Creature\Demolishervehicle\demolishervehicle02.blp to the TextureList[16] via FillSkinSelector.
+19:29:31: Info: Added Creature\Demolishervehicle\demolishervehicle02_neutral.blp to the TextureList[17] via FillSkinSelector.
+19:29:32: Loading texture: Creature\Demolishervehicle\DemolisherVehicle01_Neutral.blp
+19:29:32: Loading texture: Creature\Demolishervehicle\DemolisherVehicle02_Neutral.blp
+19:29:49: Loading model: Creature\Fuelrobot\fuelrobot.m2, size: 185584
+
+19:29:49: Info: Added Special_11 to the TextureList[0] via specialTextures. Type: 11
+19:29:49: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT4.BLP
+19:29:49: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\ARMORREFLECT4.BLP to the TextureList[2].
+19:29:49: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\NEX_ENVMAP03.BLP
+19:29:49: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\NEX_ENVMAP03.BLP to the TextureList[3].
+19:29:49: flags : 10
+19:29:49: shading : 0
+19:29:49: op : 1
+19:29:49: op2 : 1
+19:29:49: colorIndex : -1
+19:29:49: flagsIndex : 0
+19:29:49: texunit : 0
+19:29:49: mode : 1
+19:29:49: textureid : 0
+19:29:49: texunit2 : 0
+19:29:49: transid : 0
+19:29:49: texanimid : 0
+19:29:49: === ModelView ===
+19:29:49: id : 022440125360
+19:29:49: nIndex : 2350
+19:29:49: ofsIndex : 48
+19:29:49: nTris : 5745
+19:29:49: ofsTris : 4752
+19:29:49: nProps : 2350
+19:29:49: ofsProps : 16256
+19:29:49: nSub : 3
+19:29:49: ofsSub : 25664
+19:29:49: nTex : 3
+19:29:49: ofsTex : 25808
+19:29:49: lod : 21
+19:29:49: Using original Camera Model Definitions.
+19:29:49: Using original Camera Model Definitions.
+19:29:49: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:29:49: Update model: Creature\Fuelrobot\fuelrobot.m2
+19:29:49: Searching skins for 'Creature\Fuelrobot\fuelrobot.m2'
+19:29:49: Found model in CreatureModelDB, id: 3124
+19:29:49: Info: Added Creature\Fuelrobot\FuelRobotBlue.blp to the TextureList[3] via FillSkinSelector.
+19:29:49: Info: Added Creature\Fuelrobot\FuelRobotEmpty.blp to the TextureList[4] via FillSkinSelector.
+19:29:49: Info: Added Creature\Fuelrobot\FuelRobotGreen.blp to the TextureList[5] via FillSkinSelector.
+19:29:49: Info: Added Creature\Fuelrobot\FuelRobotRed.blp to the TextureList[6] via FillSkinSelector.
+19:29:49: Info: Added Creature\Fuelrobot\fuelrobotblue.blp to the TextureList[7] via FillSkinSelector.
+19:29:49: Info: Added Creature\Fuelrobot\fuelrobotempty.blp to the TextureList[8] via FillSkinSelector.
+19:29:49: Info: Added Creature\Fuelrobot\fuelrobotgreen.blp to the TextureList[9] via FillSkinSelector.
+19:29:49: Info: Added Creature\Fuelrobot\fuelrobotred.blp to the TextureList[10] via FillSkinSelector.
+19:29:49: Loading texture: Creature\Fuelrobot\FuelRobotGreen.blp
+19:29:56: Loading texture: Creature\Fuelrobot\FuelRobotBlue.blp
+19:29:57: Loading texture: Creature\Fuelrobot\FuelRobotEmpty.blp
+19:29:59: Loading texture: Creature\Fuelrobot\FuelRobotGreen.blp
+19:30:02: Loading texture: Creature\Fuelrobot\FuelRobotRed.blp
+19:30:06: Loading texture: Creature\Fuelrobot\fuelrobotblue.blp
+19:30:10: Loading texture: Creature\Fuelrobot\FuelRobotBlue.blp
+19:30:21: Loading texture: Creature\Fuelrobot\FuelRobotGreen.blp
+19:30:38: Loading model: Creature\Goblin_cannon\goblin_cannon.m2, size: 180176
+
+19:30:38: Loading texture: SPELLS\ROCKETSKIN1.BLP
+19:30:38: Info: Added SPELLS\ROCKETSKIN1.BLP to the TextureList[1].
+19:30:38: Loading texture: DUNGEONS\TEXTURES\TRIM\MM_GOB_TRIM_04.BLP
+19:30:38: Info: Added DUNGEONS\TEXTURES\TRIM\MM_GOB_TRIM_04.BLP to the TextureList[2].
+19:30:38: Loading texture: WORLD\GENERIC\HUMAN\PASSIVE DOODADS\OILRIGSTACKS\MM_OIL_TRIM_03.BLP
+19:30:38: Info: Added WORLD\GENERIC\HUMAN\PASSIVE DOODADS\OILRIGSTACKS\MM_OIL_TRIM_03.BLP to the TextureList[3].
+19:30:38: Loading texture: WORLD\EXPANSION01\DOODADS\NETHERSTORM\GOBLINBRIDGE\MM_GNOME_GEAR_01_SPEC.BLP
+19:30:38: Info: Added WORLD\EXPANSION01\DOODADS\NETHERSTORM\GOBLINBRIDGE\MM_GNOME_GEAR_01_SPEC.BLP to the TextureList[4].
+19:30:38: Loading texture: DUNGEONS\TEXTURES\DARKPORTAL\JLO_DARKP_STATUE_02.BLP
+19:30:38: Info: Added DUNGEONS\TEXTURES\DARKPORTAL\JLO_DARKP_STATUE_02.BLP to the TextureList[5].
+19:30:38: Loading texture: SPELLS\T_VFX_FLARE05.BLP
+19:30:38: Info: Added SPELLS\T_VFX_FLARE05.BLP to the TextureList[6].
+19:30:38: Loading texture: SPELLS\T_VFX_FIRE05_B.BLP
+19:30:38: Info: Added SPELLS\T_VFX_FIRE05_B.BLP to the TextureList[7].
+19:30:38: Loading texture: SPELLS\T_VFX_SMOKE64.BLP
+19:30:38: Info: Added SPELLS\T_VFX_SMOKE64.BLP to the TextureList[8].
+19:30:38: Loading texture: PARTICLES\SNOW1.BLP
+19:30:38: Info: Added PARTICLES\SNOW1.BLP to the TextureList[9].
+19:30:38: Loading texture: SPELLS\T_VFX_SMOKE_C64_B.BLP
+19:30:38: Info: Added SPELLS\T_VFX_SMOKE_C64_B.BLP to the TextureList[10].
+19:30:38: Loading texture: SPELLS\T_VFX_FLAR_BLUR_64.BLP
+19:30:38: Info: Added SPELLS\T_VFX_FLAR_BLUR_64.BLP to the TextureList[11].
+19:30:38: flags : 10
+19:30:38: shading : 0
+19:30:38: op : 0
+19:30:38: op2 : 0
+19:30:38: colorIndex : -1
+19:30:38: flagsIndex : 0
+19:30:38: texunit : 0
+19:30:38: mode : 1
+19:30:38: textureid : 0
+19:30:38: texunit2 : 0
+19:30:38: transid : 0
+19:30:38: texanimid : 0
+19:30:38: === ModelView ===
+19:30:38: id : 012440125360
+19:30:38: nIndex : 2641
+19:30:38: ofsIndex : 48
+19:30:38: nTris : 7470
+19:30:38: ofsTris : 5344
+19:30:38: nProps : 2641
+19:30:38: ofsProps : 20288
+19:30:38: nSub : 5
+19:30:38: ofsSub : 30864
+19:30:38: nTex : 6
+19:30:38: ofsTex : 31104
+19:30:38: lod : 21
+19:30:38: Using original Camera Model Definitions.
+19:30:38: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:30:38: Update model: Creature\Goblin_cannon\goblin_cannon.m2
+19:30:38: Searching skins for 'Creature\Goblin_cannon\goblin_cannon.m2'
+19:30:38: Found model in CreatureModelDB, id: 2952
+19:31:06: Loading model: Creature\Goblin_minecart\goblin_minecart_01_creature.m2, size: 56032
+
+19:31:06: Error: Could not load the texture 'WORLD\GENERIC\GOBLIN\PASSIVEDOODADS\KEZAN\MINECART\GOBLIN_KEZAN_MINECART_01.BLP'
+19:31:06: Info: Added WORLD\GENERIC\GOBLIN\PASSIVEDOODADS\KEZAN\MINECART\GOBLIN_KEZAN_MINECART_01.BLP to the TextureList[1].
+19:31:06: flags : 0
+19:31:06: shading : 0
+19:31:06: op : 0
+19:31:06: op2 : 0
+19:31:06: colorIndex : -1
+19:31:06: flagsIndex : 0
+19:31:06: texunit : 0
+19:31:06: mode : 1
+19:31:06: textureid : 0
+19:31:06: texunit2 : 0
+19:31:06: transid : 0
+19:31:06: texanimid : 0
+19:31:06: === ModelView ===
+19:31:06: id : 012440125360
+19:31:06: nIndex : 1072
+19:31:06: ofsIndex : 64
+19:31:06: nTris : 3792
+19:31:06: ofsTris : 2208
+19:31:06: nProps : 1072
+19:31:06: ofsProps : 9792
+19:31:06: nSub : 1
+19:31:06: ofsSub : 14080
+19:31:06: nTex : 1
+19:31:06: ofsTex : 14128
+19:31:06: lod : 0
+19:31:06: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:31:06: Update model: Creature\Goblin_minecart\goblin_minecart_01_creature.m2
+19:31:06: Searching skins for 'Creature\Goblin_minecart\goblin_minecart_01_creature.m2'
+19:31:06: CreatureModelDB::getByFilename Creature\Goblin_minecart\goblin_minecart_01_creature => 3039 tests !!! NOT FOUND !!!
+19:31:06: CreatureModelDB not found !!!
+19:31:09: Loading model: Creature\Goblin_minecart\goblin_minecart_02_creature.m2, size: 56496
+
+19:31:09: Error: Could not load the texture 'WORLD\GENERIC\GOBLIN\PASSIVEDOODADS\KEZAN\MINECART\GOBLIN_KEZAN_MINECART_01.BLP'
+19:31:09: Info: Added WORLD\GENERIC\GOBLIN\PASSIVEDOODADS\KEZAN\MINECART\GOBLIN_KEZAN_MINECART_01.BLP to the TextureList[1].
+19:31:09: Error: Could not load the texture 'WORLD\EXPANSION03\DOODADS\WORGEN\WORGENMICRO\WORGEN_COAL.BLP'
+19:31:09: Info: Added WORLD\EXPANSION03\DOODADS\WORGEN\WORGENMICRO\WORGEN_COAL.BLP to the TextureList[2].
+19:31:09: flags : 0
+19:31:09: shading : 0
+19:31:09: op : 0
+19:31:09: op2 : 0
+19:31:09: colorIndex : -1
+19:31:09: flagsIndex : 0
+19:31:09: texunit : 0
+19:31:09: mode : 1
+19:31:09: textureid : 0
+19:31:09: texunit2 : 0
+19:31:09: transid : 0
+19:31:09: texanimid : 0
+19:31:09: === ModelView ===
+19:31:09: id : 012440125360
+19:31:09: nIndex : 1080
+19:31:09: ofsIndex : 64
+19:31:09: nTris : 3816
+19:31:09: ofsTris : 2224
+19:31:09: nProps : 1080
+19:31:09: ofsProps : 9856
+19:31:09: nSub : 2
+19:31:09: ofsSub : 14176
+19:31:09: nTex : 2
+19:31:09: ofsTex : 14272
+19:31:09: lod : 0
+19:31:09: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:31:09: Update model: Creature\Goblin_minecart\goblin_minecart_02_creature.m2
+19:31:09: Searching skins for 'Creature\Goblin_minecart\goblin_minecart_02_creature.m2'
+19:31:09: CreatureModelDB::getByFilename Creature\Goblin_minecart\goblin_minecart_02_creature => 3039 tests !!! NOT FOUND !!!
+19:31:09: CreatureModelDB not found !!!
+19:31:23: Initializing File Controls...
+19:31:41: Loading model: World\Azeroth\elwynn\passivedoodads\minecart\elwynnminecart.m2, size: 23664
+
+19:31:41: Loading texture: WORLD\AZEROTH\ELWYNN\PASSIVEDOODADS\MINECART\EWHEELSIDE.BLP
+19:31:41: Info: Added WORLD\AZEROTH\ELWYNN\PASSIVEDOODADS\MINECART\EWHEELSIDE.BLP to the TextureList[1].
+19:31:41: Loading texture: WORLD\LORDAERON\TIRISFALGLADE\PASSIVEDOODADS\BARRICADE\DOOR.BLP
+19:31:41: Info: Added WORLD\LORDAERON\TIRISFALGLADE\PASSIVEDOODADS\BARRICADE\DOOR.BLP to the TextureList[2].
+19:31:41: Loading texture: WORLD\AZEROTH\ELWYNN\PASSIVEDOODADS\MINECART\EWOODSUPPORT.BLP
+19:31:41: Info: Added WORLD\AZEROTH\ELWYNN\PASSIVEDOODADS\MINECART\EWOODSUPPORT.BLP to the TextureList[3].
+19:31:41: Loading texture: WORLD\AZEROTH\ELWYNN\PASSIVEDOODADS\MINECART\BLADEBOX.BLP
+19:31:41: Info: Added WORLD\AZEROTH\ELWYNN\PASSIVEDOODADS\MINECART\BLADEBOX.BLP to the TextureList[4].
+19:31:41: flags : 10
+19:31:41: shading : 0
+19:31:41: op : 0
+19:31:41: op2 : 0
+19:31:41: colorIndex : -1
+19:31:41: flagsIndex : 0
+19:31:41: texunit : 0
+19:31:41: mode : 1
+19:31:41: textureid : 0
+19:31:41: texunit2 : 0
+19:31:41: transid : 0
+19:31:41: texanimid : 0
+19:31:41: === ModelView ===
+19:31:41: id : 012440125360
+19:31:41: nIndex : 417
+19:31:41: ofsIndex : 48
+19:31:41: nTris : 714
+19:31:41: ofsTris : 896
+19:31:41: nProps : 417
+19:31:41: ofsProps : 2336
+19:31:41: nSub : 4
+19:31:41: ofsSub : 4016
+19:31:41: nTex : 4
+19:31:41: ofsTex : 4208
+19:31:41: lod : 21
+19:31:41: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:31:41: Update model: World\Azeroth\elwynn\passivedoodads\minecart\elwynnminecart.m2
+19:31:43: Loading model: World\Azeroth\karazahn\passivedoodads\brokencart\kn_brokencart.m2, size: 21328
+
+19:31:43: Loading texture: WORLD\AZEROTH\KARAZAHN\PASSIVEDOODADS\BROKENCART\BROKENCART.BLP
+19:31:43: Info: Added WORLD\AZEROTH\KARAZAHN\PASSIVEDOODADS\BROKENCART\BROKENCART.BLP to the TextureList[1].
+19:31:43: flags : 10
+19:31:43: shading : 0
+19:31:43: op : 0
+19:31:43: op2 : 0
+19:31:43: colorIndex : -1
+19:31:43: flagsIndex : 0
+19:31:43: texunit : 0
+19:31:43: mode : 1
+19:31:43: textureid : 0
+19:31:43: texunit2 : 0
+19:31:43: transid : 0
+19:31:43: texanimid : 0
+19:31:43: === ModelView ===
+19:31:43: id : 012440125360
+19:31:43: nIndex : 355
+19:31:43: ofsIndex : 48
+19:31:43: nTris : 744
+19:31:43: ofsTris : 768
+19:31:43: nProps : 355
+19:31:43: ofsProps : 2256
+19:31:43: nSub : 1
+19:31:43: ofsSub : 3680
+19:31:43: nTex : 1
+19:31:43: ofsTex : 3728
+19:31:43: lod : 21
+19:31:43: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:31:43: Update model: World\Azeroth\karazahn\passivedoodads\brokencart\kn_brokencart.m2
+19:31:44: Loading model: World\Azeroth\westfall\passivedoodads\brokencart\brokencart.m2, size: 22976
+
+19:31:44: Loading texture: WORLD\AZEROTH\WESTFALL\PASSIVEDOODADS\BARREL\BAR_BUT_HAY_HAR_CAR.BLP
+19:31:44: Info: Added WORLD\AZEROTH\WESTFALL\PASSIVEDOODADS\BARREL\BAR_BUT_HAY_HAR_CAR.BLP to the TextureList[1].
+19:31:44: flags : 10
+19:31:44: shading : 0
+19:31:44: op : 0
+19:31:44: op2 : 0
+19:31:44: colorIndex : -1
+19:31:44: flagsIndex : 0
+19:31:44: texunit : 0
+19:31:44: mode : 1
+19:31:44: textureid : 0
+19:31:44: texunit2 : 0
+19:31:44: transid : 0
+19:31:44: texanimid : 0
+19:31:44: === ModelView ===
+19:31:44: id : 012440125360
+19:31:44: nIndex : 342
+19:31:44: ofsIndex : 48
+19:31:44: nTris : 891
+19:31:44: ofsTris : 736
+19:31:44: nProps : 342
+19:31:44: ofsProps : 2528
+19:31:44: nSub : 1
+19:31:44: ofsSub : 3904
+19:31:44: nTex : 1
+19:31:44: ofsTex : 3952
+19:31:44: lod : 21
+19:31:44: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:31:44: Update model: World\Azeroth\westfall\passivedoodads\brokencart\brokencart.m2
+19:31:45: Loading model: World\Azeroth\westfall\passivedoodads\rakecart\rakecart.m2, size: 26704
+
+19:31:45: Loading texture: WORLD\GENERIC\GOBLIN\PASSIVEDOODADS\GOBLINROCKETCARTS\WESTFALLWAGONWOOD COPY.BLP
+19:31:45: Info: Added WORLD\GENERIC\GOBLIN\PASSIVEDOODADS\GOBLINROCKETCARTS\WESTFALLWAGONWOOD COPY.BLP to the TextureList[1].
+19:31:45: Loading texture: WORLD\AZEROTH\DUSKWOOD\PASSIVEDOODADS\FENCE\WESTFALLFENCE.BLP
+19:31:45: Info: Added WORLD\AZEROTH\DUSKWOOD\PASSIVEDOODADS\FENCE\WESTFALLFENCE.BLP to the TextureList[2].
+19:31:45: Loading texture: WORLD\AZEROTH\WESTFALL\PASSIVEDOODADS\RAKECART\WESTFALLWAGONWHEEL01.BLP
+19:31:45: Info: Added WORLD\AZEROTH\WESTFALL\PASSIVEDOODADS\RAKECART\WESTFALLWAGONWHEEL01.BLP to the TextureList[3].
+19:31:45: flags : 10
+19:31:45: shading : 0
+19:31:45: op : 0
+19:31:45: op2 : 0
+19:31:45: colorIndex : -1
+19:31:45: flagsIndex : 0
+19:31:45: texunit : 0
+19:31:45: mode : 1
+19:31:45: textureid : 0
+19:31:45: texunit2 : 0
+19:31:45: transid : 0
+19:31:45: texanimid : 0
+19:31:45: === ModelView ===
+19:31:45: id : 012440125360
+19:31:45: nIndex : 394
+19:31:45: ofsIndex : 48
+19:31:45: nTris : 1164
+19:31:45: ofsTris : 848
+19:31:45: nProps : 394
+19:31:45: ofsProps : 3184
+19:31:45: nSub : 3
+19:31:45: ofsSub : 4768
+19:31:45: nTex : 3
+19:31:45: ofsTex : 4912
+19:31:45: lod : 21
+19:31:45: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:31:45: Update model: World\Azeroth\westfall\passivedoodads\rakecart\rakecart.m2
+19:31:48: Loading model: World\Expansion02\doodads\generic\scourge\sc_bodycart_02.m2, size: 144768
+
+19:31:48: Loading texture: WORLD\EXPANSION02\DOODADS\GENERIC\SCOURGE\SC_BODYCART_01.BLP
+19:31:48: Info: Added WORLD\EXPANSION02\DOODADS\GENERIC\SCOURGE\SC_BODYCART_01.BLP to the TextureList[1].
+19:31:48: Loading texture: WORLD\EXPANSION02\DOODADS\GENERIC\SCOURGE\SC_BODYCART_02.BLP
+19:31:48: Info: Added WORLD\EXPANSION02\DOODADS\GENERIC\SCOURGE\SC_BODYCART_02.BLP to the TextureList[2].
+19:31:48: flags : 10
+19:31:48: shading : 0
+19:31:48: op : 1
+19:31:48: op2 : 1
+19:31:48: colorIndex : -1
+19:31:48: flagsIndex : 0
+19:31:48: texunit : 0
+19:31:48: mode : 1
+19:31:48: textureid : 1
+19:31:48: texunit2 : 0
+19:31:48: transid : 0
+19:31:48: texanimid : 0
+19:31:48: === ModelView ===
+19:31:48: id : 012440125360
+19:31:48: nIndex : 2884
+19:31:48: ofsIndex : 48
+19:31:48: nTris : 11766
+19:31:48: ofsTris : 5824
+19:31:48: nProps : 2884
+19:31:48: ofsProps : 29360
+19:31:48: nSub : 2
+19:31:48: ofsSub : 40896
+19:31:48: nTex : 2
+19:31:48: ofsTex : 40992
+19:31:48: lod : 21
+19:31:48: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:31:48: Update model: World\Expansion02\doodads\generic\scourge\sc_bodycart_02.m2
+19:31:48: Loading model: World\Expansion02\doodads\generic\scourge\sc_bodycart_body.m2, size: 80656
+
+19:31:48: Loading texture: WORLD\EXPANSION02\DOODADS\GENERIC\SCOURGE\SC_BODYCART_02.BLP
+19:31:48: Info: Added WORLD\EXPANSION02\DOODADS\GENERIC\SCOURGE\SC_BODYCART_02.BLP to the TextureList[1].
+19:31:48: Loading texture: WORLD\EXPANSION02\DOODADS\GENERIC\SCOURGE\SC_BODYCART_01.BLP
+19:31:48: Info: Added WORLD\EXPANSION02\DOODADS\GENERIC\SCOURGE\SC_BODYCART_01.BLP to the TextureList[2].
+19:31:48: flags : 10
+19:31:48: shading : 0
+19:31:48: op : 0
+19:31:48: op2 : 0
+19:31:48: colorIndex : -1
+19:31:48: flagsIndex : 0
+19:31:48: texunit : 0
+19:31:48: mode : 1
+19:31:48: textureid : 0
+19:31:48: texunit2 : 0
+19:31:48: transid : 0
+19:31:48: texanimid : 0
+19:31:48: === ModelView ===
+19:31:48: id : 012440125360
+19:31:48: nIndex : 1257
+19:31:48: ofsIndex : 48
+19:31:48: nTris : 4833
+19:31:48: ofsTris : 2576
+19:31:48: nProps : 1257
+19:31:48: ofsProps : 12256
+19:31:48: nSub : 2
+19:31:48: ofsSub : 17296
+19:31:48: nTex : 2
+19:31:48: ofsTex : 17392
+19:31:48: lod : 21
+19:31:48: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:31:48: Update model: World\Expansion02\doodads\generic\scourge\sc_bodycart_body.m2
+19:31:53: Loading model: World\Expansion02\doodads\generic\scourge\sc_bodycart_destroyed.m2, size: 163712
+
+19:31:53: Loading texture: WORLD\EXPANSION02\DOODADS\GENERIC\SCOURGE\SC_BODYCART_01.BLP
+19:31:53: Info: Added WORLD\EXPANSION02\DOODADS\GENERIC\SCOURGE\SC_BODYCART_01.BLP to the TextureList[1].
+19:31:53: Loading texture: WORLD\EXPANSION02\DOODADS\GENERIC\SCOURGE\SC_BODYCART_02.BLP
+19:31:53: Info: Added WORLD\EXPANSION02\DOODADS\GENERIC\SCOURGE\SC_BODYCART_02.BLP to the TextureList[2].
+19:31:53: flags : 10
+19:31:53: shading : 0
+19:31:53: op : 1
+19:31:53: op2 : 1
+19:31:53: colorIndex : -1
+19:31:53: flagsIndex : 0
+19:31:53: texunit : 0
+19:31:53: mode : 1
+19:31:53: textureid : 1
+19:31:53: texunit2 : 0
+19:31:53: transid : 0
+19:31:53: texanimid : 0
+19:31:53: === ModelView ===
+19:31:53: id : 012440125360
+19:31:53: nIndex : 3195
+19:31:53: ofsIndex : 48
+19:31:53: nTris : 13290
+19:31:53: ofsTris : 6448
+19:31:53: nProps : 3195
+19:31:53: ofsProps : 33040
+19:31:53: nSub : 2
+19:31:53: ofsSub : 45824
+19:31:53: nTex : 2
+19:31:53: ofsTex : 45920
+19:31:53: lod : 21
+19:31:53: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:31:53: Update model: World\Expansion02\doodads\generic\scourge\sc_bodycart_destroyed.m2
+19:31:54: Loading model: World\Expansion02\doodads\generic\scourge\sc_bodycart_nobody.m2, size: 236304
+
+19:31:54: Loading texture: WORLD\EXPANSION02\DOODADS\GENERIC\SCOURGE\SC_BODYCART_01.BLP
+19:31:54: Info: Added WORLD\EXPANSION02\DOODADS\GENERIC\SCOURGE\SC_BODYCART_01.BLP to the TextureList[1].
+19:31:54: Loading texture: WORLD\EXPANSION02\DOODADS\GENERIC\SCOURGE\SC_BODYCART_02.BLP
+19:31:54: Info: Added WORLD\EXPANSION02\DOODADS\GENERIC\SCOURGE\SC_BODYCART_02.BLP to the TextureList[2].
+19:31:54: Loading texture: SPELLS\TOONSMOKE16.BLP
+19:31:54: Info: Added SPELLS\TOONSMOKE16.BLP to the TextureList[3].
+19:31:54: flags : 10
+19:31:54: shading : 0
+19:31:54: op : 1
+19:31:54: op2 : 1
+19:31:54: colorIndex : -1
+19:31:54: flagsIndex : 0
+19:31:54: texunit : 0
+19:31:54: mode : 1
+19:31:54: textureid : 1
+19:31:54: texunit2 : 0
+19:31:54: transid : 0
+19:31:54: texanimid : 0
+19:31:54: === ModelView ===
+19:31:54: id : 012440125360
+19:31:54: nIndex : 4397
+19:31:54: ofsIndex : 48
+19:31:54: nTris : 17451
+19:31:54: ofsTris : 8848
+19:31:54: nProps : 4397
+19:31:54: ofsProps : 43760
+19:31:54: nSub : 2
+19:31:54: ofsSub : 61360
+19:31:54: nTex : 2
+19:31:54: ofsTex : 61456
+19:31:54: lod : 53
+19:31:54: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:31:54: Update model: World\Expansion02\doodads\generic\scourge\sc_bodycart_nobody.m2
+19:31:56: Loading model: World\Expansion02\doodads\stratholme_past\ld_foodcart01.m2, size: 52880
+
+19:31:56: Loading texture: WORLD\EXPANSION02\DOODADS\STRATHOLME_PAST\OLD_SAT_FOODSTAND.BLP
+19:31:56: Info: Added WORLD\EXPANSION02\DOODADS\STRATHOLME_PAST\OLD_SAT_FOODSTAND.BLP to the TextureList[1].
+19:31:56: Loading texture: WORLD\GENERIC\OGRE\PASSIVE DOODADS\POODAD\FLY.BLP
+19:31:56: Info: Added WORLD\GENERIC\OGRE\PASSIVE DOODADS\POODAD\FLY.BLP to the TextureList[2].
+19:31:56: flags : 10
+19:31:56: shading : 0
+19:31:56: op : 0
+19:31:56: op2 : 0
+19:31:56: colorIndex : -1
+19:31:56: flagsIndex : 0
+19:31:56: texunit : 0
+19:31:56: mode : 1
+19:31:56: textureid : 0
+19:31:56: texunit2 : 0
+19:31:56: transid : 0
+19:31:56: texanimid : 0
+19:31:56: === ModelView ===
+19:31:56: id : 012440125360
+19:31:56: nIndex : 1021
+19:31:56: ofsIndex : 48
+19:31:56: nTris : 3177
+19:31:56: ofsTris : 2096
+19:31:56: nProps : 1021
+19:31:56: ofsProps : 8464
+19:31:56: nSub : 2
+19:31:56: ofsSub : 12560
+19:31:56: nTex : 2
+19:31:56: ofsTex : 12656
+19:31:56: lod : 21
+19:31:56: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:31:56: Update model: World\Expansion02\doodads\stratholme_past\ld_foodcart01.m2
+19:32:00: Loading model: World\Generic\dwarf\passive doodads\minecarts\minecartgiant.m2, size: 129424
+
+19:32:00: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\MineCartPanle01.blp
+19:32:00: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\MineCartPanle01.blp to the TextureList[1].
+19:32:00: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\CopperTanks.blp
+19:32:00: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\CopperTanks.blp to the TextureList[2].
+19:32:00: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\MineCartBucket.blp
+19:32:00: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\MineCartBucket.blp to the TextureList[3].
+19:32:00: Loading texture: World\Goober\MineCartMisc01.blp
+19:32:00: Info: Added World\Goober\MineCartMisc01.blp to the TextureList[4].
+19:32:00: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\MCPipe01.blp
+19:32:00: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\MCPipe01.blp to the TextureList[5].
+19:32:00: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\MetalPlates01.blp
+19:32:00: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\MetalPlates01.blp to the TextureList[6].
+19:32:00: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\GridPlate.blp
+19:32:00: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\GridPlate.blp to the TextureList[7].
+19:32:00: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\MCGrate.blp
+19:32:00: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\MCGrate.blp to the TextureList[8].
+19:32:00: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\CoalFire.blp
+19:32:00: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\CoalFire.blp to the TextureList[9].
+19:32:00: Loading texture: Creature\ElementalEarth\WaterMist.blp
+19:32:00: Info: Added Creature\ElementalEarth\WaterMist.blp to the TextureList[10].
+19:32:00: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\MCPipeEnd01.blp
+19:32:00: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\MCPipeEnd01.blp to the TextureList[11].
+19:32:00: Loading texture: World\Generic\Dwarf\Passive Doodads\TavernStuff\PlateTile.blp
+19:32:00: Info: Added World\Generic\Dwarf\Passive Doodads\TavernStuff\PlateTile.blp to the TextureList[12].
+19:32:00: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\GryphonHead.blp
+19:32:00: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\GryphonHead.blp to the TextureList[13].
+19:32:00: Loading texture: world\Azeroth\Elwynn\PassiveDoodads\Pick\shovel.blp
+19:32:00: Info: Added world\Azeroth\Elwynn\PassiveDoodads\Pick\shovel.blp to the TextureList[14].
+19:32:00: Loading texture: world\Azeroth\Elwynn\PassiveDoodads\Pick\shoveltop.blp
+19:32:00: Info: Added world\Azeroth\Elwynn\PassiveDoodads\Pick\shoveltop.blp to the TextureList[15].
+19:32:00: flags : 10
+19:32:00: shading : 0
+19:32:00: op : 6
+19:32:00: op2 : 6
+19:32:00: colorIndex : 0
+19:32:00: flagsIndex : 8
+19:32:00: texunit : 0
+19:32:00: mode : 1
+19:32:00: textureid : 5
+19:32:00: texunit2 : 0
+19:32:00: transid : 0
+19:32:00: texanimid : 0
+19:32:00: === ModelView ===
+19:32:00: id : 012440125360
+19:32:00: nIndex : 2541
+19:32:00: ofsIndex : 48
+19:32:00: nTris : 5730
+19:32:00: ofsTris : 5136
+19:32:00: nProps : 2541
+19:32:00: ofsProps : 16608
+19:32:00: nSub : 15
+19:32:00: ofsSub : 26784
+19:32:00: nTex : 15
+19:32:00: ofsTex : 27504
+19:32:00: lod : 21
+19:32:00: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:32:00: Update model: World\Generic\dwarf\passive doodads\minecarts\minecartgiant.m2
+19:32:21: Loading model: World\Generic\dwarf\passive doodads\signs\dwarfsign_cartography.m2, size: 12528
+
+19:32:21: Loading texture: WORLD\GENERIC\DWARF\PASSIVE DOODADS\SIGNS\DWARFSIGN_CARTOGRAPHY.BLP
+19:32:21: Info: Added WORLD\GENERIC\DWARF\PASSIVE DOODADS\SIGNS\DWARFSIGN_CARTOGRAPHY.BLP to the TextureList[1].
+19:32:21: flags : 10
+19:32:21: shading : 0
+19:32:21: op : 0
+19:32:21: op2 : 0
+19:32:21: colorIndex : -1
+19:32:21: flagsIndex : 0
+19:32:21: texunit : 0
+19:32:21: mode : 1
+19:32:21: textureid : 0
+19:32:21: texunit2 : 0
+19:32:21: transid : 0
+19:32:21: texanimid : 0
+19:32:21: === ModelView ===
+19:32:21: id : 012440125360
+19:32:21: nIndex : 244
+19:32:21: ofsIndex : 48
+19:32:21: nTris : 402
+19:32:21: ofsTris : 544
+19:32:21: nProps : 244
+19:32:21: ofsProps : 1360
+19:32:21: nSub : 1
+19:32:21: ofsSub : 2336
+19:32:21: nTex : 1
+19:32:21: ofsTex : 2384
+19:32:21: lod : 21
+19:32:21: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:32:21: Update model: World\Generic\dwarf\passive doodads\signs\dwarfsign_cartography.m2
+19:32:25: Loading model: World\Generic\gnome\passive doodads\gnomerocketcarts\crashedgnomerc.m2, size: 41616
+
+19:32:25: Loading texture: WORLD\GENERIC\GOBLIN\PASSIVEDOODADS\GOBLINROCKETCARTS\BM_SHDWFANG_METALWALL_01_GRAY.BLP
+19:32:25: Info: Added WORLD\GENERIC\GOBLIN\PASSIVEDOODADS\GOBLINROCKETCARTS\BM_SHDWFANG_METALWALL_01_GRAY.BLP to the TextureList[1].
+19:32:25: Loading texture: WORLD\GENERIC\GOBLIN\PASSIVEDOODADS\GOBLINROCKETCARTS\MM_FURNACE_BASE_01X.BLP
+19:32:25: Info: Added WORLD\GENERIC\GOBLIN\PASSIVEDOODADS\GOBLINROCKETCARTS\MM_FURNACE_BASE_01X.BLP to the TextureList[2].
+19:32:25: Loading texture: WORLD\GENERIC\GOBLIN\PASSIVEDOODADS\GOBLINROCKETCARTS\FLOWERSACK01.BLP
+19:32:25: Info: Added WORLD\GENERIC\GOBLIN\PASSIVEDOODADS\GOBLINROCKETCARTS\FLOWERSACK01.BLP to the TextureList[3].
+19:32:25: Loading texture: CREATURE\ELEMENTALEARTH\WATERMIST.BLP
+19:32:25: Info: Added CREATURE\ELEMENTALEARTH\WATERMIST.BLP to the TextureList[4].
+19:32:25: Loading texture: CREATURE\FIREELEMENTAL\EMBER.BLP
+19:32:25: Info: Added CREATURE\FIREELEMENTAL\EMBER.BLP to the TextureList[5].
+19:32:25: flags : 10
+19:32:25: shading : 0
+19:32:25: op : 0
+19:32:25: op2 : 0
+19:32:25: colorIndex : -1
+19:32:25: flagsIndex : 0
+19:32:25: texunit : 0
+19:32:25: mode : 1
+19:32:25: textureid : 0
+19:32:25: texunit2 : 0
+19:32:25: transid : 0
+19:32:25: texanimid : 0
+19:32:25: === ModelView ===
+19:32:25: id : 012440125360
+19:32:25: nIndex : 756
+19:32:25: ofsIndex : 48
+19:32:25: nTris : 1962
+19:32:25: ofsTris : 1568
+19:32:25: nProps : 756
+19:32:25: ofsProps : 5504
+19:32:25: nSub : 3
+19:32:25: ofsSub : 8528
+19:32:25: nTex : 3
+19:32:25: ofsTex : 8672
+19:32:25: lod : 21
+19:32:25: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:32:25: Update model: World\Generic\gnome\passive doodads\gnomerocketcarts\crashedgnomerc.m2
+19:32:37: Initializing File Controls...
+19:32:44: Loading model: Creature\Goblin_minecart\goblin_minecart_01_creature.m2, size: 56032
+
+19:32:44: Error: Could not load the texture 'WORLD\GENERIC\GOBLIN\PASSIVEDOODADS\KEZAN\MINECART\GOBLIN_KEZAN_MINECART_01.BLP'
+19:32:44: Info: Added WORLD\GENERIC\GOBLIN\PASSIVEDOODADS\KEZAN\MINECART\GOBLIN_KEZAN_MINECART_01.BLP to the TextureList[1].
+19:32:44: flags : 0
+19:32:44: shading : 0
+19:32:44: op : 0
+19:32:44: op2 : 0
+19:32:44: colorIndex : -1
+19:32:44: flagsIndex : 0
+19:32:44: texunit : 0
+19:32:44: mode : 1
+19:32:44: textureid : 0
+19:32:44: texunit2 : 0
+19:32:44: transid : 0
+19:32:44: texanimid : 0
+19:32:44: === ModelView ===
+19:32:44: id : 012440125360
+19:32:44: nIndex : 1072
+19:32:44: ofsIndex : 64
+19:32:44: nTris : 3792
+19:32:44: ofsTris : 2208
+19:32:44: nProps : 1072
+19:32:44: ofsProps : 9792
+19:32:44: nSub : 1
+19:32:44: ofsSub : 14080
+19:32:44: nTex : 1
+19:32:44: ofsTex : 14128
+19:32:44: lod : 0
+19:32:44: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:32:44: Update model: Creature\Goblin_minecart\goblin_minecart_01_creature.m2
+19:32:44: Searching skins for 'Creature\Goblin_minecart\goblin_minecart_01_creature.m2'
+19:32:44: CreatureModelDB::getByFilename Creature\Goblin_minecart\goblin_minecart_01_creature => 3039 tests !!! NOT FOUND !!!
+19:32:44: CreatureModelDB not found !!!
+19:32:45: Loading model: Creature\Goblin_minecart\goblin_minecart_02_creature.m2, size: 56496
+
+19:32:45: Error: Could not load the texture 'WORLD\GENERIC\GOBLIN\PASSIVEDOODADS\KEZAN\MINECART\GOBLIN_KEZAN_MINECART_01.BLP'
+19:32:45: Info: Added WORLD\GENERIC\GOBLIN\PASSIVEDOODADS\KEZAN\MINECART\GOBLIN_KEZAN_MINECART_01.BLP to the TextureList[1].
+19:32:45: Error: Could not load the texture 'WORLD\EXPANSION03\DOODADS\WORGEN\WORGENMICRO\WORGEN_COAL.BLP'
+19:32:45: Info: Added WORLD\EXPANSION03\DOODADS\WORGEN\WORGENMICRO\WORGEN_COAL.BLP to the TextureList[2].
+19:32:45: flags : 0
+19:32:45: shading : 0
+19:32:45: op : 0
+19:32:45: op2 : 0
+19:32:45: colorIndex : -1
+19:32:45: flagsIndex : 0
+19:32:45: texunit : 0
+19:32:45: mode : 1
+19:32:45: textureid : 0
+19:32:45: texunit2 : 0
+19:32:45: transid : 0
+19:32:45: texanimid : 0
+19:32:45: === ModelView ===
+19:32:45: id : 012440125360
+19:32:45: nIndex : 1080
+19:32:45: ofsIndex : 64
+19:32:45: nTris : 3816
+19:32:45: ofsTris : 2224
+19:32:45: nProps : 1080
+19:32:45: ofsProps : 9856
+19:32:45: nSub : 2
+19:32:45: ofsSub : 14176
+19:32:45: nTex : 2
+19:32:45: ofsTex : 14272
+19:32:45: lod : 0
+19:32:45: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:32:45: Update model: Creature\Goblin_minecart\goblin_minecart_02_creature.m2
+19:32:45: Searching skins for 'Creature\Goblin_minecart\goblin_minecart_02_creature.m2'
+19:32:45: CreatureModelDB::getByFilename Creature\Goblin_minecart\goblin_minecart_02_creature => 3039 tests !!! NOT FOUND !!!
+19:32:45: CreatureModelDB not found !!!
+19:32:52: Loading model: Spells\Floatingmine.m2, size: 32176
+
+19:32:52: Loading texture: spells\FloatingMine.blp
+19:32:52: Info: Added spells\FloatingMine.blp to the TextureList[1].
+19:32:52: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\FLARE.BLP
+19:32:52: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\FLARE.BLP to the TextureList[2].
+19:32:52: Loading texture: WORLD\GOOBER\SHOCKWAVE1.BLP
+19:32:52: Info: Added WORLD\GOOBER\SHOCKWAVE1.BLP to the TextureList[3].
+19:32:52: Loading texture: WORLD\EXPANSION01\DOODADS\ZANGAR\MUSHROOM\GLOWBALL02.BLP
+19:32:52: Info: Added WORLD\EXPANSION01\DOODADS\ZANGAR\MUSHROOM\GLOWBALL02.BLP to the TextureList[4].
+19:32:52: flags : 10
+19:32:52: shading : 0
+19:32:52: op : 0
+19:32:52: op2 : 0
+19:32:52: colorIndex : 0
+19:32:52: flagsIndex : 0
+19:32:52: texunit : 0
+19:32:52: mode : 1
+19:32:52: textureid : 0
+19:32:52: texunit2 : 0
+19:32:52: transid : 0
+19:32:52: texanimid : 0
+19:32:52: === ModelView ===
+19:32:52: id : 022440125361
+19:32:52: nIndex : 430
+19:32:52: ofsIndex : 48
+19:32:52: nTris : 1410
+19:32:52: ofsTris : 912
+19:32:52: nProps : 430
+19:32:52: ofsProps : 3744
+19:32:52: nSub : 3
+19:32:52: ofsSub : 5472
+19:32:52: nTex : 3
+19:32:52: ofsTex : 5616
+19:32:52: lod : 21
+19:32:52: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:32:52: Update model: Spells\Floatingmine.m2
+19:32:57: Loading model: World\Azeroth\elwynn\buildings\goldmine\goldmine.m2, size: 8624
+
+19:32:57: Loading texture: World\Azeroth\Elwynn\Buildings\GoldMine\woodedge.blp
+19:32:57: Info: Added World\Azeroth\Elwynn\Buildings\GoldMine\woodedge.blp to the TextureList[1].
+19:32:57: Loading texture: World\Azeroth\Elwynn\Buildings\GoldMine\Rock01.blp
+19:32:57: Info: Added World\Azeroth\Elwynn\Buildings\GoldMine\Rock01.blp to the TextureList[2].
+19:32:57: Loading texture: World\Azeroth\Elwynn\Buildings\GoldMine\roundwood.blp
+19:32:57: Info: Added World\Azeroth\Elwynn\Buildings\GoldMine\roundwood.blp to the TextureList[3].
+19:32:57: flags : 10
+19:32:57: shading : 0
+19:32:57: op : 0
+19:32:57: op2 : 0
+19:32:57: colorIndex : -1
+19:32:57: flagsIndex : 0
+19:32:57: texunit : 0
+19:32:57: mode : 1
+19:32:57: textureid : 0
+19:32:57: texunit2 : 0
+19:32:57: transid : 0
+19:32:57: texanimid : 0
+19:32:57: === ModelView ===
+19:32:57: id : 012440125360
+19:32:57: nIndex : 160
+19:32:57: ofsIndex : 48
+19:32:57: nTris : 372
+19:32:57: ofsTris : 368
+19:32:57: nProps : 160
+19:32:57: ofsProps : 1120
+19:32:57: nSub : 3
+19:32:57: ofsSub : 1760
+19:32:57: nTex : 3
+19:32:57: ofsTex : 1904
+19:32:57: lod : 21
+19:32:57: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:32:57: Update model: World\Azeroth\elwynn\buildings\goldmine\goldmine.m2
+19:32:58: Loading model: World\Azeroth\elwynn\buildings\goldmine\goldminetrackcurve.m2, size: 6736
+
+19:32:58: Loading texture: World\Azeroth\Elwynn\Buildings\GoldMine\rack.blp
+19:32:58: Info: Added World\Azeroth\Elwynn\Buildings\GoldMine\rack.blp to the TextureList[1].
+19:32:58: Loading texture: World\Azeroth\Elwynn\Buildings\GoldMine\trackbar.blp
+19:32:58: Info: Added World\Azeroth\Elwynn\Buildings\GoldMine\trackbar.blp to the TextureList[2].
+19:32:58: flags : 10
+19:32:58: shading : 0
+19:32:58: op : 0
+19:32:58: op2 : 0
+19:32:58: colorIndex : -1
+19:32:58: flagsIndex : 0
+19:32:58: texunit : 0
+19:32:58: mode : 1
+19:32:58: textureid : 0
+19:32:58: texunit2 : 0
+19:32:58: transid : 0
+19:32:58: texanimid : 0
+19:32:58: === ModelView ===
+19:32:58: id : 012440125360
+19:32:58: nIndex : 122
+19:32:58: ofsIndex : 48
+19:32:58: nTris : 186
+19:32:58: ofsTris : 304
+19:32:58: nProps : 122
+19:32:58: ofsProps : 688
+19:32:58: nSub : 2
+19:32:58: ofsSub : 1184
+19:32:58: nTex : 2
+19:32:58: ofsTex : 1280
+19:32:58: lod : 21
+19:32:58: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:32:58: Update model: World\Azeroth\elwynn\buildings\goldmine\goldminetrackcurve.m2
+19:32:59: Loading model: World\Azeroth\elwynn\buildings\goldmine\goldminetracks.m2, size: 12304
+
+19:32:59: Loading texture: WORLD\AZEROTH\ELWYNN\BUILDINGS\GOLDMINE\TRACKBAR.BLP
+19:32:59: Info: Added WORLD\AZEROTH\ELWYNN\BUILDINGS\GOLDMINE\TRACKBAR.BLP to the TextureList[1].
+19:32:59: Loading texture: WORLD\AZEROTH\ELWYNN\BUILDINGS\GOLDMINE\RACK.BLP
+19:32:59: Info: Added WORLD\AZEROTH\ELWYNN\BUILDINGS\GOLDMINE\RACK.BLP to the TextureList[2].
+19:32:59: flags : 10
+19:32:59: shading : 0
+19:32:59: op : 0
+19:32:59: op2 : 0
+19:32:59: colorIndex : -1
+19:32:59: flagsIndex : 0
+19:32:59: texunit : 0
+19:32:59: mode : 1
+19:32:59: textureid : 0
+19:32:59: texunit2 : 0
+19:32:59: transid : 0
+19:32:59: texanimid : 0
+19:32:59: === ModelView ===
+19:32:59: id : 012440125360
+19:32:59: nIndex : 178
+19:32:59: ofsIndex : 48
+19:32:59: nTris : 288
+19:32:59: ofsTris : 416
+19:32:59: nProps : 178
+19:32:59: ofsProps : 992
+19:32:59: nSub : 2
+19:32:59: ofsSub : 1712
+19:32:59: nTex : 2
+19:32:59: ofsTex : 1808
+19:32:59: lod : 21
+19:32:59: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:32:59: Update model: World\Azeroth\elwynn\buildings\goldmine\goldminetracks.m2
+19:33:03: Loading model: World\Azeroth\elwynn\passivedoodads\minecart\elwynnminecart.m2, size: 23664
+
+19:33:03: Loading texture: WORLD\AZEROTH\ELWYNN\PASSIVEDOODADS\MINECART\EWHEELSIDE.BLP
+19:33:03: Info: Added WORLD\AZEROTH\ELWYNN\PASSIVEDOODADS\MINECART\EWHEELSIDE.BLP to the TextureList[1].
+19:33:03: Loading texture: WORLD\LORDAERON\TIRISFALGLADE\PASSIVEDOODADS\BARRICADE\DOOR.BLP
+19:33:03: Info: Added WORLD\LORDAERON\TIRISFALGLADE\PASSIVEDOODADS\BARRICADE\DOOR.BLP to the TextureList[2].
+19:33:03: Loading texture: WORLD\AZEROTH\ELWYNN\PASSIVEDOODADS\MINECART\EWOODSUPPORT.BLP
+19:33:03: Info: Added WORLD\AZEROTH\ELWYNN\PASSIVEDOODADS\MINECART\EWOODSUPPORT.BLP to the TextureList[3].
+19:33:03: Loading texture: WORLD\AZEROTH\ELWYNN\PASSIVEDOODADS\MINECART\BLADEBOX.BLP
+19:33:03: Info: Added WORLD\AZEROTH\ELWYNN\PASSIVEDOODADS\MINECART\BLADEBOX.BLP to the TextureList[4].
+19:33:03: flags : 10
+19:33:03: shading : 0
+19:33:03: op : 0
+19:33:03: op2 : 0
+19:33:03: colorIndex : -1
+19:33:03: flagsIndex : 0
+19:33:03: texunit : 0
+19:33:03: mode : 1
+19:33:03: textureid : 0
+19:33:03: texunit2 : 0
+19:33:03: transid : 0
+19:33:03: texanimid : 0
+19:33:03: === ModelView ===
+19:33:03: id : 012440125360
+19:33:03: nIndex : 417
+19:33:03: ofsIndex : 48
+19:33:03: nTris : 714
+19:33:03: ofsTris : 896
+19:33:03: nProps : 417
+19:33:03: ofsProps : 2336
+19:33:03: nSub : 4
+19:33:03: ofsSub : 4016
+19:33:03: nTex : 4
+19:33:03: ofsTex : 4208
+19:33:03: lod : 21
+19:33:03: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:33:03: Update model: World\Azeroth\elwynn\passivedoodads\minecart\elwynnminecart.m2
+19:33:10: Loading model: World\Azeroth\stranglethorn\passivedoodads\gemminecar01\gemminecar01.m2, size: 18432
+
+19:33:10: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\GEMMINECAR_FRONT.BLP
+19:33:10: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\GEMMINECAR_FRONT.BLP to the TextureList[1].
+19:33:10: Loading texture: WORLD\GENERIC\PASSIVEDOODADS\MISC\MINECARS\GEMMINECAR_SIDE.BLP
+19:33:10: Info: Added WORLD\GENERIC\PASSIVEDOODADS\MISC\MINECARS\GEMMINECAR_SIDE.BLP to the TextureList[2].
+19:33:10: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\WHEEL.BLP
+19:33:10: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\WHEEL.BLP to the TextureList[3].
+19:33:10: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\LAMP.BLP
+19:33:10: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\LAMP.BLP to the TextureList[4].
+19:33:10: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMOND.BLP
+19:33:10: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMOND.BLP to the TextureList[5].
+19:33:10: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMONDTOP.BLP
+19:33:10: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMONDTOP.BLP to the TextureList[6].
+19:33:10: flags : 10
+19:33:10: shading : 0
+19:33:10: op : 0
+19:33:10: op2 : 0
+19:33:10: colorIndex : -1
+19:33:10: flagsIndex : 0
+19:33:10: texunit : 0
+19:33:10: mode : 1
+19:33:10: textureid : 0
+19:33:10: texunit2 : 0
+19:33:10: transid : 0
+19:33:10: texanimid : 0
+19:33:10: === ModelView ===
+19:33:10: id : 012440125360
+19:33:10: nIndex : 302
+19:33:10: ofsIndex : 48
+19:33:10: nTris : 543
+19:33:10: ofsTris : 656
+19:33:10: nProps : 302
+19:33:10: ofsProps : 1744
+19:33:10: nSub : 6
+19:33:10: ofsSub : 2960
+19:33:10: nTex : 6
+19:33:10: ofsTex : 3248
+19:33:10: lod : 21
+19:33:10: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:33:10: Update model: World\Azeroth\stranglethorn\passivedoodads\gemminecar01\gemminecar01.m2
+19:33:13: Loading model: World\Azeroth\stranglethorn\passivedoodads\gemminecar02\gemminecar03.m2, size: 18768
+
+19:33:13: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\GEMMINECAR_FRONT.BLP
+19:33:13: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\GEMMINECAR_FRONT.BLP to the TextureList[1].
+19:33:13: Loading texture: WORLD\GENERIC\PASSIVEDOODADS\MISC\MINECARS\GEMMINECAR_SIDE.BLP
+19:33:13: Info: Added WORLD\GENERIC\PASSIVEDOODADS\MISC\MINECARS\GEMMINECAR_SIDE.BLP to the TextureList[2].
+19:33:13: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\WHEEL.BLP
+19:33:13: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\WHEEL.BLP to the TextureList[3].
+19:33:13: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\LAMP.BLP
+19:33:13: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\LAMP.BLP to the TextureList[4].
+19:33:13: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMOND.BLP
+19:33:13: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMOND.BLP to the TextureList[5].
+19:33:13: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMONDTOP.BLP
+19:33:13: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMONDTOP.BLP to the TextureList[6].
+19:33:13: flags : 10
+19:33:13: shading : 0
+19:33:13: op : 0
+19:33:13: op2 : 0
+19:33:13: colorIndex : -1
+19:33:13: flagsIndex : 0
+19:33:13: texunit : 0
+19:33:13: mode : 1
+19:33:13: textureid : 0
+19:33:13: texunit2 : 0
+19:33:13: transid : 0
+19:33:13: texanimid : 0
+19:33:13: === ModelView ===
+19:33:13: id : 012440125360
+19:33:13: nIndex : 302
+19:33:13: ofsIndex : 48
+19:33:13: nTris : 543
+19:33:13: ofsTris : 656
+19:33:13: nProps : 302
+19:33:13: ofsProps : 1744
+19:33:13: nSub : 6
+19:33:13: ofsSub : 2960
+19:33:13: nTex : 6
+19:33:13: ofsTex : 3248
+19:33:13: lod : 21
+19:33:13: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:33:13: Update model: World\Azeroth\stranglethorn\passivedoodads\gemminecar02\gemminecar03.m2
+19:33:21: Loading model: World\Azeroth\stranglethorn\passivedoodads\diamondminewalllantern\diamondminewalllantern.m2, size: 4320
+
+19:33:21: Loading texture: World\Azeroth\Stranglethorn\PassiveDoodads\DiamondMineWallLantern\NEWLAMP.blp
+19:33:21: Info: Added World\Azeroth\Stranglethorn\PassiveDoodads\DiamondMineWallLantern\NEWLAMP.blp to the TextureList[1].
+19:33:21: Loading texture: World\Azeroth\Stranglethorn\PassiveDoodads\DiamondMineWallLantern\wood.blp
+19:33:21: Info: Added World\Azeroth\Stranglethorn\PassiveDoodads\DiamondMineWallLantern\wood.blp to the TextureList[2].
+19:33:21: Loading texture: World\Azeroth\Stranglethorn\PassiveDoodads\DiamondMineWallLantern\rope.blp
+19:33:21: Info: Added World\Azeroth\Stranglethorn\PassiveDoodads\DiamondMineWallLantern\rope.blp to the TextureList[3].
+19:33:21: flags : 10
+19:33:21: shading : 0
+19:33:21: op : 0
+19:33:21: op2 : 0
+19:33:21: colorIndex : -1
+19:33:21: flagsIndex : 0
+19:33:21: texunit : 0
+19:33:21: mode : 1
+19:33:21: textureid : 0
+19:33:21: texunit2 : 0
+19:33:21: transid : 0
+19:33:21: texanimid : 0
+19:33:21: === ModelView ===
+19:33:21: id : 012440125360
+19:33:21: nIndex : 69
+19:33:21: ofsIndex : 48
+19:33:21: nTris : 93
+19:33:21: ofsTris : 192
+19:33:21: nProps : 69
+19:33:21: ofsProps : 384
+19:33:21: nSub : 3
+19:33:21: ofsSub : 672
+19:33:21: nTex : 3
+19:33:21: ofsTex : 816
+19:33:21: lod : 21
+19:33:21: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:33:21: Update model: World\Azeroth\stranglethorn\passivedoodads\diamondminewalllantern\diamondminewalllantern.m2
+19:33:23: Loading model: World\Azeroth\stranglethorn\passivedoodads\gemminecar01\gemminecar01.m2, size: 18432
+
+19:33:23: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\GEMMINECAR_FRONT.BLP
+19:33:23: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\GEMMINECAR_FRONT.BLP to the TextureList[1].
+19:33:23: Loading texture: WORLD\GENERIC\PASSIVEDOODADS\MISC\MINECARS\GEMMINECAR_SIDE.BLP
+19:33:23: Info: Added WORLD\GENERIC\PASSIVEDOODADS\MISC\MINECARS\GEMMINECAR_SIDE.BLP to the TextureList[2].
+19:33:23: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\WHEEL.BLP
+19:33:23: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\WHEEL.BLP to the TextureList[3].
+19:33:23: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\LAMP.BLP
+19:33:23: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\LAMP.BLP to the TextureList[4].
+19:33:23: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMOND.BLP
+19:33:23: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMOND.BLP to the TextureList[5].
+19:33:23: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMONDTOP.BLP
+19:33:23: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMONDTOP.BLP to the TextureList[6].
+19:33:23: flags : 10
+19:33:23: shading : 0
+19:33:23: op : 0
+19:33:23: op2 : 0
+19:33:23: colorIndex : -1
+19:33:23: flagsIndex : 0
+19:33:23: texunit : 0
+19:33:23: mode : 1
+19:33:23: textureid : 0
+19:33:23: texunit2 : 0
+19:33:23: transid : 0
+19:33:23: texanimid : 0
+19:33:23: === ModelView ===
+19:33:23: id : 012440125360
+19:33:23: nIndex : 302
+19:33:23: ofsIndex : 48
+19:33:23: nTris : 543
+19:33:23: ofsTris : 656
+19:33:23: nProps : 302
+19:33:23: ofsProps : 1744
+19:33:23: nSub : 6
+19:33:23: ofsSub : 2960
+19:33:23: nTex : 6
+19:33:23: ofsTex : 3248
+19:33:23: lod : 21
+19:33:23: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:33:23: Update model: World\Azeroth\stranglethorn\passivedoodads\gemminecar01\gemminecar01.m2
+19:33:40: Loading model: World\Generic\dwarf\passive doodads\minecarts\minecartgiant.m2, size: 129424
+
+19:33:40: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\MineCartPanle01.blp
+19:33:40: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\MineCartPanle01.blp to the TextureList[1].
+19:33:40: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\CopperTanks.blp
+19:33:40: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\CopperTanks.blp to the TextureList[2].
+19:33:40: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\MineCartBucket.blp
+19:33:40: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\MineCartBucket.blp to the TextureList[3].
+19:33:40: Loading texture: World\Goober\MineCartMisc01.blp
+19:33:40: Info: Added World\Goober\MineCartMisc01.blp to the TextureList[4].
+19:33:40: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\MCPipe01.blp
+19:33:40: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\MCPipe01.blp to the TextureList[5].
+19:33:40: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\MetalPlates01.blp
+19:33:40: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\MetalPlates01.blp to the TextureList[6].
+19:33:40: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\GridPlate.blp
+19:33:40: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\GridPlate.blp to the TextureList[7].
+19:33:40: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\MCGrate.blp
+19:33:40: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\MCGrate.blp to the TextureList[8].
+19:33:40: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\CoalFire.blp
+19:33:40: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\CoalFire.blp to the TextureList[9].
+19:33:40: Loading texture: Creature\ElementalEarth\WaterMist.blp
+19:33:40: Info: Added Creature\ElementalEarth\WaterMist.blp to the TextureList[10].
+19:33:40: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\MCPipeEnd01.blp
+19:33:40: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\MCPipeEnd01.blp to the TextureList[11].
+19:33:40: Loading texture: World\Generic\Dwarf\Passive Doodads\TavernStuff\PlateTile.blp
+19:33:40: Info: Added World\Generic\Dwarf\Passive Doodads\TavernStuff\PlateTile.blp to the TextureList[12].
+19:33:40: Loading texture: World\Generic\Dwarf\Passive Doodads\MineCarts\GryphonHead.blp
+19:33:40: Info: Added World\Generic\Dwarf\Passive Doodads\MineCarts\GryphonHead.blp to the TextureList[13].
+19:33:40: Loading texture: world\Azeroth\Elwynn\PassiveDoodads\Pick\shovel.blp
+19:33:40: Info: Added world\Azeroth\Elwynn\PassiveDoodads\Pick\shovel.blp to the TextureList[14].
+19:33:40: Loading texture: world\Azeroth\Elwynn\PassiveDoodads\Pick\shoveltop.blp
+19:33:40: Info: Added world\Azeroth\Elwynn\PassiveDoodads\Pick\shoveltop.blp to the TextureList[15].
+19:33:40: flags : 10
+19:33:40: shading : 0
+19:33:40: op : 6
+19:33:40: op2 : 6
+19:33:40: colorIndex : 0
+19:33:40: flagsIndex : 8
+19:33:40: texunit : 0
+19:33:40: mode : 1
+19:33:40: textureid : 5
+19:33:40: texunit2 : 0
+19:33:40: transid : 0
+19:33:40: texanimid : 0
+19:33:40: === ModelView ===
+19:33:40: id : 012440125360
+19:33:40: nIndex : 2541
+19:33:40: ofsIndex : 48
+19:33:40: nTris : 5730
+19:33:40: ofsTris : 5136
+19:33:40: nProps : 2541
+19:33:40: ofsProps : 16608
+19:33:40: nSub : 15
+19:33:40: ofsSub : 26784
+19:33:40: nTex : 15
+19:33:40: ofsTex : 27504
+19:33:40: lod : 21
+19:33:40: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:33:40: Update model: World\Generic\dwarf\passive doodads\minecarts\minecartgiant.m2
+19:33:42: Loading model: World\Expansion02\doodads\generic\winterorc\worc_minemachine.m2, size: 41840
+
+19:33:42: Loading texture: WORLD\EXPANSION02\DOODADS\GENERIC\WINTERORC\JLO_WORC_MINEMACHINE.BLP
+19:33:42: Info: Added WORLD\EXPANSION02\DOODADS\GENERIC\WINTERORC\JLO_WORC_MINEMACHINE.BLP to the TextureList[1].
+19:33:42: Loading texture: DUNGEONS\TEXTURES\WINTERORCS\JLO_WORC_METAL01.BLP
+19:33:42: Info: Added DUNGEONS\TEXTURES\WINTERORCS\JLO_WORC_METAL01.BLP to the TextureList[2].
+19:33:42: Loading texture: DUNGEONS\TEXTURES\WINTERORCS\JLO_WORC_CHAINS.BLP
+19:33:42: Info: Added DUNGEONS\TEXTURES\WINTERORCS\JLO_WORC_CHAINS.BLP to the TextureList[3].
+19:33:42: flags : 10
+19:33:42: shading : 0
+19:33:42: op : 0
+19:33:42: op2 : 0
+19:33:42: colorIndex : -1
+19:33:42: flagsIndex : 0
+19:33:42: texunit : 0
+19:33:42: mode : 1
+19:33:42: textureid : 0
+19:33:42: texunit2 : 0
+19:33:42: transid : 0
+19:33:42: texanimid : 0
+19:33:42: === ModelView ===
+19:33:42: id : 012440125360
+19:33:42: nIndex : 819
+19:33:42: ofsIndex : 48
+19:33:42: nTris : 2124
+19:33:42: ofsTris : 1696
+19:33:42: nProps : 819
+19:33:42: ofsProps : 5952
+19:33:42: nSub : 3
+19:33:42: ofsSub : 9232
+19:33:42: nTex : 3
+19:33:42: ofsTex : 9376
+19:33:42: lod : 21
+19:33:42: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:33:42: Update model: World\Expansion02\doodads\generic\winterorc\worc_minemachine.m2
+19:34:02: Loading model: World\Generic\passivedoodads\misc\minecars\caveminecar01.m2, size: 10976
+
+19:34:02: Loading texture: World\Generic\Orc\Passive Doodads\KodoWagon\CaveMinecar_front.blp
+19:34:02: Info: Added World\Generic\Orc\Passive Doodads\KodoWagon\CaveMinecar_front.blp to the TextureList[1].
+19:34:02: Loading texture: World\Generic\PassiveDoodads\Misc\MineCars\CaveMinecar_wheel.blp
+19:34:02: Info: Added World\Generic\PassiveDoodads\Misc\MineCars\CaveMinecar_wheel.blp to the TextureList[2].
+19:34:02: Loading texture: World\Generic\PassiveDoodads\Misc\MineCars\CaveMinecar_side.blp
+19:34:02: Info: Added World\Generic\PassiveDoodads\Misc\MineCars\CaveMinecar_side.blp to the TextureList[3].
+19:34:02: Loading texture: World\Generic\PassiveDoodads\Misc\MineCars\gemminecar_side.blp
+19:34:02: Info: Added World\Generic\PassiveDoodads\Misc\MineCars\gemminecar_side.blp to the TextureList[4].
+19:34:02: flags : 10
+19:34:02: shading : 0
+19:34:02: op : 0
+19:34:02: op2 : 0
+19:34:02: colorIndex : -1
+19:34:02: flagsIndex : 0
+19:34:02: texunit : 0
+19:34:02: mode : 1
+19:34:02: textureid : 0
+19:34:02: texunit2 : 0
+19:34:02: transid : 0
+19:34:02: texanimid : 0
+19:34:02: === ModelView ===
+19:34:02: id : 012440125360
+19:34:02: nIndex : 184
+19:34:02: ofsIndex : 48
+19:34:02: nTris : 360
+19:34:02: ofsTris : 416
+19:34:02: nProps : 184
+19:34:02: ofsProps : 1136
+19:34:02: nSub : 3
+19:34:02: ofsSub : 1872
+19:34:02: nTex : 3
+19:34:02: ofsTex : 2016
+19:34:02: lod : 21
+19:34:02: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:34:02: Update model: World\Generic\passivedoodads\misc\minecars\caveminecar01.m2
+19:34:08: Loading model: World\Generic\passivedoodads\misc\minecars\caveminecarwrecked01.m2, size: 10720
+
+19:34:08: Loading texture: WORLD\GENERIC\PASSIVEDOODADS\MISC\MINECARS\CAVEMINECAR_WHEEL.BLP
+19:34:08: Info: Added WORLD\GENERIC\PASSIVEDOODADS\MISC\MINECARS\CAVEMINECAR_WHEEL.BLP to the TextureList[1].
+19:34:08: Loading texture: WORLD\GENERIC\PASSIVEDOODADS\MISC\MINECARS\CAVEMINECAR_SIDE.BLP
+19:34:08: Info: Added WORLD\GENERIC\PASSIVEDOODADS\MISC\MINECARS\CAVEMINECAR_SIDE.BLP to the TextureList[2].
+19:34:08: Loading texture: WORLD\GENERIC\ORC\PASSIVE DOODADS\KODOWAGON\CAVEMINECAR_FRONT.BLP
+19:34:08: Info: Added WORLD\GENERIC\ORC\PASSIVE DOODADS\KODOWAGON\CAVEMINECAR_FRONT.BLP to the TextureList[3].
+19:34:08: flags : 10
+19:34:08: shading : 0
+19:34:08: op : 0
+19:34:08: op2 : 0
+19:34:08: colorIndex : -1
+19:34:08: flagsIndex : 0
+19:34:08: texunit : 0
+19:34:08: mode : 1
+19:34:08: textureid : 0
+19:34:08: texunit2 : 0
+19:34:08: transid : 0
+19:34:08: texanimid : 0
+19:34:08: === ModelView ===
+19:34:08: id : 012440125360
+19:34:08: nIndex : 184
+19:34:08: ofsIndex : 48
+19:34:08: nTris : 360
+19:34:08: ofsTris : 416
+19:34:08: nProps : 184
+19:34:08: ofsProps : 1136
+19:34:08: nSub : 3
+19:34:08: ofsSub : 1872
+19:34:08: nTex : 3
+19:34:08: ofsTex : 2016
+19:34:08: lod : 21
+19:34:08: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:34:08: Update model: World\Generic\passivedoodads\misc\minecars\caveminecarwrecked01.m2
+19:34:09: Loading model: World\Generic\passivedoodads\misc\minecars\caveminecarwrecked02.m2, size: 13248
+
+19:34:09: Loading texture: World\Generic\Orc\Passive Doodads\KodoWagon\CaveMinecar_front.blp
+19:34:09: Info: Added World\Generic\Orc\Passive Doodads\KodoWagon\CaveMinecar_front.blp to the TextureList[1].
+19:34:09: Loading texture: World\Generic\PassiveDoodads\Misc\MineCars\CaveMinecar_Detachedwheel.blp
+19:34:09: Info: Added World\Generic\PassiveDoodads\Misc\MineCars\CaveMinecar_Detachedwheel.blp to the TextureList[2].
+19:34:09: Loading texture: World\Generic\PassiveDoodads\Misc\MineCars\CaveMinecar_side.blp
+19:34:09: Info: Added World\Generic\PassiveDoodads\Misc\MineCars\CaveMinecar_side.blp to the TextureList[3].
+19:34:09: flags : 10
+19:34:09: shading : 0
+19:34:09: op : 0
+19:34:09: op2 : 0
+19:34:09: colorIndex : -1
+19:34:09: flagsIndex : 0
+19:34:09: texunit : 0
+19:34:09: mode : 1
+19:34:09: textureid : 0
+19:34:09: texunit2 : 0
+19:34:09: transid : 0
+19:34:09: texanimid : 0
+19:34:09: === ModelView ===
+19:34:09: id : 012440125360
+19:34:09: nIndex : 206
+19:34:09: ofsIndex : 48
+19:34:09: nTris : 396
+19:34:09: ofsTris : 464
+19:34:09: nProps : 206
+19:34:09: ofsProps : 1264
+19:34:09: nSub : 3
+19:34:09: ofsSub : 2096
+19:34:09: nTex : 3
+19:34:09: ofsTex : 2240
+19:34:09: lod : 21
+19:34:09: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:34:09: Update model: World\Generic\passivedoodads\misc\minecars\caveminecarwrecked02.m2
+19:34:10: Loading model: World\Generic\passivedoodads\misc\minecars\caveminepulley01.m2, size: 6192
+
+19:34:10: Loading texture: World\Generic\Dwarf\Passive Doodads\ExcavationCrane\caverope01.blp
+19:34:10: Info: Added World\Generic\Dwarf\Passive Doodads\ExcavationCrane\caverope01.blp to the TextureList[1].
+19:34:10: Loading texture: World\Generic\Dwarf\Passive Doodads\ExcavationCrane\MinecavePulley01_64.blp
+19:34:10: Info: Added World\Generic\Dwarf\Passive Doodads\ExcavationCrane\MinecavePulley01_64.blp to the TextureList[2].
+19:34:10: flags : 10
+19:34:10: shading : 0
+19:34:10: op : 0
+19:34:10: op2 : 0
+19:34:10: colorIndex : -1
+19:34:10: flagsIndex : 0
+19:34:10: texunit : 0
+19:34:10: mode : 1
+19:34:10: textureid : 0
+19:34:10: texunit2 : 0
+19:34:10: transid : 0
+19:34:10: texanimid : 0
+19:34:10: === ModelView ===
+19:34:10: id : 012440125360
+19:34:10: nIndex : 110
+19:34:10: ofsIndex : 48
+19:34:10: nTris : 294
+19:34:10: ofsTris : 272
+19:34:10: nProps : 110
+19:34:10: ofsProps : 864
+19:34:10: nSub : 2
+19:34:10: ofsSub : 1312
+19:34:10: nTex : 2
+19:34:10: ofsTex : 1408
+19:34:10: lod : 21
+19:34:10: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:34:10: Update model: World\Generic\passivedoodads\misc\minecars\caveminepulley01.m2
+19:34:11: Loading model: World\Generic\passivedoodads\misc\minecars\caveminepulley02.m2, size: 6192
+
+19:34:11: Loading texture: World\Generic\Dwarf\Passive Doodads\ExcavationCrane\caverope01.blp
+19:34:11: Info: Added World\Generic\Dwarf\Passive Doodads\ExcavationCrane\caverope01.blp to the TextureList[1].
+19:34:11: Loading texture: World\Generic\Dwarf\Passive Doodads\ExcavationCrane\MinecavePulley01_64.blp
+19:34:11: Info: Added World\Generic\Dwarf\Passive Doodads\ExcavationCrane\MinecavePulley01_64.blp to the TextureList[2].
+19:34:11: flags : 10
+19:34:11: shading : 0
+19:34:11: op : 0
+19:34:11: op2 : 0
+19:34:11: colorIndex : -1
+19:34:11: flagsIndex : 0
+19:34:11: texunit : 0
+19:34:11: mode : 1
+19:34:11: textureid : 0
+19:34:11: texunit2 : 0
+19:34:11: transid : 0
+19:34:11: texanimid : 0
+19:34:11: === ModelView ===
+19:34:11: id : 012440125360
+19:34:11: nIndex : 110
+19:34:11: ofsIndex : 48
+19:34:11: nTris : 294
+19:34:11: ofsTris : 272
+19:34:11: nProps : 110
+19:34:11: ofsProps : 864
+19:34:11: nSub : 2
+19:34:11: ofsSub : 1312
+19:34:11: nTex : 2
+19:34:11: ofsTex : 1408
+19:34:11: lod : 21
+19:34:11: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:34:11: Update model: World\Generic\passivedoodads\misc\minecars\caveminepulley02.m2
+19:34:15: Loading model: World\Generic\passivedoodads\misc\wheelbarrow\caveminewheelbarrow01.m2, size: 12496
+
+19:34:15: Loading texture: World\Generic\PassiveDoodads\Misc\WheelBarrow\Wheelbarrow_cave01_128.blp
+19:34:15: Info: Added World\Generic\PassiveDoodads\Misc\WheelBarrow\Wheelbarrow_cave01_128.blp to the TextureList[1].
+19:34:15: flags : 10
+19:34:15: shading : 0
+19:34:15: op : 0
+19:34:15: op2 : 0
+19:34:15: colorIndex : -1
+19:34:15: flagsIndex : 0
+19:34:15: texunit : 0
+19:34:15: mode : 1
+19:34:15: textureid : 0
+19:34:15: texunit2 : 0
+19:34:15: transid : 0
+19:34:15: texanimid : 0
+19:34:15: === ModelView ===
+19:34:15: id : 012440125360
+19:34:15: nIndex : 211
+19:34:15: ofsIndex : 48
+19:34:15: nTris : 444
+19:34:15: ofsTris : 480
+19:34:15: nProps : 211
+19:34:15: ofsProps : 1376
+19:34:15: nSub : 1
+19:34:15: ofsSub : 2224
+19:34:15: nTex : 1
+19:34:15: ofsTex : 2272
+19:34:15: lod : 21
+19:34:15: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:34:15: Update model: World\Generic\passivedoodads\misc\wheelbarrow\caveminewheelbarrow01.m2
+19:34:22: Loading model: World\Goober\g_minecar.m2, size: 10704
+
+19:34:22: Loading texture: WORLD\GOOBER\G_MINECAR.BLP
+19:34:22: Info: Added WORLD\GOOBER\G_MINECAR.BLP to the TextureList[1].
+19:34:22: flags : 10
+19:34:22: shading : 0
+19:34:22: op : 0
+19:34:22: op2 : 0
+19:34:22: colorIndex : -1
+19:34:22: flagsIndex : 0
+19:34:22: texunit : 0
+19:34:22: mode : 1
+19:34:22: textureid : 0
+19:34:22: texunit2 : 0
+19:34:22: transid : 0
+19:34:22: texanimid : 0
+19:34:22: === ModelView ===
+19:34:22: id : 012440125360
+19:34:22: nIndex : 183
+19:34:22: ofsIndex : 48
+19:34:22: nTris : 390
+19:34:22: ofsTris : 416
+19:34:22: nProps : 183
+19:34:22: ofsProps : 1200
+19:34:22: nSub : 1
+19:34:22: ofsSub : 1936
+19:34:22: nTex : 1
+19:34:22: ofsTex : 1984
+19:34:22: lod : 21
+19:34:22: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:34:23: Update model: World\Goober\g_minecar.m2
+19:34:26: Loading model: World\Goober\landminealteracvalley.m2, size: 17184
+
+19:34:26: Loading texture: CREATURE\GOBLIN\SPARK.BLP
+19:34:26: Info: Added CREATURE\GOBLIN\SPARK.BLP to the TextureList[1].
+19:34:26: Loading texture: CREATURE\SPELLS\LANDMINEALTERACVALLEY.BLP
+19:34:26: Info: Added CREATURE\SPELLS\LANDMINEALTERACVALLEY.BLP to the TextureList[2].
+19:34:26: flags : 10
+19:34:26: shading : 0
+19:34:26: op : 1
+19:34:26: op2 : 1
+19:34:26: colorIndex : 0
+19:34:26: flagsIndex : 1
+19:34:26: texunit : 0
+19:34:26: mode : 1
+19:34:26: textureid : 0
+19:34:26: texunit2 : 0
+19:34:26: transid : 0
+19:34:26: texanimid : 0
+19:34:26: === ModelView ===
+19:34:26: id : 012440125360
+19:34:26: nIndex : 207
+19:34:26: ofsIndex : 48
+19:34:26: nTris : 570
+19:34:26: ofsTris : 464
+19:34:26: nProps : 207
+19:34:26: ofsProps : 1616
+19:34:26: nSub : 4
+19:34:26: ofsSub : 2448
+19:34:26: nTex : 4
+19:34:26: ofsTex : 2640
+19:34:26: lod : 21
+19:34:26: Using original Camera Model Definitions.
+19:34:26: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:34:26: Update model: World\Goober\landminealteracvalley.m2
+19:34:46: Loading model: World\Generic\passivedoodads\misc\minecars\caveminecar01.m2, size: 10976
+
+19:34:46: Loading texture: World\Generic\Orc\Passive Doodads\KodoWagon\CaveMinecar_front.blp
+19:34:46: Info: Added World\Generic\Orc\Passive Doodads\KodoWagon\CaveMinecar_front.blp to the TextureList[1].
+19:34:46: Loading texture: World\Generic\PassiveDoodads\Misc\MineCars\CaveMinecar_wheel.blp
+19:34:46: Info: Added World\Generic\PassiveDoodads\Misc\MineCars\CaveMinecar_wheel.blp to the TextureList[2].
+19:34:46: Loading texture: World\Generic\PassiveDoodads\Misc\MineCars\CaveMinecar_side.blp
+19:34:46: Info: Added World\Generic\PassiveDoodads\Misc\MineCars\CaveMinecar_side.blp to the TextureList[3].
+19:34:46: Loading texture: World\Generic\PassiveDoodads\Misc\MineCars\gemminecar_side.blp
+19:34:46: Info: Added World\Generic\PassiveDoodads\Misc\MineCars\gemminecar_side.blp to the TextureList[4].
+19:34:46: flags : 10
+19:34:46: shading : 0
+19:34:46: op : 0
+19:34:46: op2 : 0
+19:34:46: colorIndex : -1
+19:34:46: flagsIndex : 0
+19:34:46: texunit : 0
+19:34:46: mode : 1
+19:34:46: textureid : 0
+19:34:46: texunit2 : 0
+19:34:46: transid : 0
+19:34:46: texanimid : 0
+19:34:46: === ModelView ===
+19:34:46: id : 012440125360
+19:34:46: nIndex : 184
+19:34:46: ofsIndex : 48
+19:34:46: nTris : 360
+19:34:46: ofsTris : 416
+19:34:46: nProps : 184
+19:34:46: ofsProps : 1136
+19:34:46: nSub : 3
+19:34:46: ofsSub : 1872
+19:34:46: nTex : 3
+19:34:46: ofsTex : 2016
+19:34:46: lod : 21
+19:34:46: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:34:46: Update model: World\Generic\passivedoodads\misc\minecars\caveminecar01.m2
+19:35:04: Loading model: World\Azeroth\stranglethorn\passivedoodads\gemminecar02\gemminecar03.m2, size: 18768
+
+19:35:04: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\GEMMINECAR_FRONT.BLP
+19:35:04: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\GEMMINECAR_FRONT.BLP to the TextureList[1].
+19:35:04: Loading texture: WORLD\GENERIC\PASSIVEDOODADS\MISC\MINECARS\GEMMINECAR_SIDE.BLP
+19:35:04: Info: Added WORLD\GENERIC\PASSIVEDOODADS\MISC\MINECARS\GEMMINECAR_SIDE.BLP to the TextureList[2].
+19:35:04: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\WHEEL.BLP
+19:35:04: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\WHEEL.BLP to the TextureList[3].
+19:35:04: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\LAMP.BLP
+19:35:04: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\LAMP.BLP to the TextureList[4].
+19:35:04: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMOND.BLP
+19:35:04: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMOND.BLP to the TextureList[5].
+19:35:04: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMONDTOP.BLP
+19:35:04: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMONDTOP.BLP to the TextureList[6].
+19:35:04: flags : 10
+19:35:04: shading : 0
+19:35:04: op : 0
+19:35:04: op2 : 0
+19:35:04: colorIndex : -1
+19:35:04: flagsIndex : 0
+19:35:04: texunit : 0
+19:35:04: mode : 1
+19:35:04: textureid : 0
+19:35:04: texunit2 : 0
+19:35:04: transid : 0
+19:35:04: texanimid : 0
+19:35:04: === ModelView ===
+19:35:04: id : 012440125360
+19:35:04: nIndex : 302
+19:35:04: ofsIndex : 48
+19:35:04: nTris : 543
+19:35:04: ofsTris : 656
+19:35:04: nProps : 302
+19:35:04: ofsProps : 1744
+19:35:04: nSub : 6
+19:35:04: ofsSub : 2960
+19:35:04: nTex : 6
+19:35:04: ofsTex : 3248
+19:35:04: lod : 21
+19:35:04: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:35:04: Update model: World\Azeroth\stranglethorn\passivedoodads\gemminecar02\gemminecar03.m2
+19:35:05: Loading model: World\Azeroth\stranglethorn\passivedoodads\gemminecar02\gemminecar02.m2, size: 13952
+
+19:35:05: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR02\GEMMINECAR_DARK.BLP
+19:35:05: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR02\GEMMINECAR_DARK.BLP to the TextureList[1].
+19:35:05: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\WHEEL.BLP
+19:35:05: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\WHEEL.BLP to the TextureList[2].
+19:35:05: Loading texture: WORLD\GENERIC\PASSIVEDOODADS\MISC\MINECARS\GEMMINECAR_SIDE.BLP
+19:35:05: Info: Added WORLD\GENERIC\PASSIVEDOODADS\MISC\MINECARS\GEMMINECAR_SIDE.BLP to the TextureList[3].
+19:35:05: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\LAMP.BLP
+19:35:05: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\LAMP.BLP to the TextureList[4].
+19:35:05: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\GEMMINECAR_FRONT.BLP
+19:35:05: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\GEMMINECAR_FRONT.BLP to the TextureList[5].
+19:35:05: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR02\ROCK01.BLP
+19:35:05: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR02\ROCK01.BLP to the TextureList[6].
+19:35:05: flags : 10
+19:35:05: shading : 0
+19:35:05: op : 0
+19:35:05: op2 : 0
+19:35:05: colorIndex : -1
+19:35:05: flagsIndex : 0
+19:35:05: texunit : 0
+19:35:05: mode : 1
+19:35:05: textureid : 0
+19:35:05: texunit2 : 0
+19:35:05: transid : 0
+19:35:05: texanimid : 0
+19:35:05: === ModelView ===
+19:35:05: id : 012440125360
+19:35:05: nIndex : 239
+19:35:05: ofsIndex : 48
+19:35:05: nTris : 462
+19:35:05: ofsTris : 528
+19:35:05: nProps : 239
+19:35:05: ofsProps : 1456
+19:35:05: nSub : 6
+19:35:05: ofsSub : 2416
+19:35:05: nTex : 6
+19:35:05: ofsTex : 2704
+19:35:05: lod : 21
+19:35:05: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:35:05: Update model: World\Azeroth\stranglethorn\passivedoodads\gemminecar02\gemminecar02.m2
+19:35:08: Loading model: World\Azeroth\stranglethorn\passivedoodads\gemminecar02\gemminecar03.m2, size: 18768
+
+19:35:08: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\GEMMINECAR_FRONT.BLP
+19:35:08: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\GEMMINECAR_FRONT.BLP to the TextureList[1].
+19:35:08: Loading texture: WORLD\GENERIC\PASSIVEDOODADS\MISC\MINECARS\GEMMINECAR_SIDE.BLP
+19:35:08: Info: Added WORLD\GENERIC\PASSIVEDOODADS\MISC\MINECARS\GEMMINECAR_SIDE.BLP to the TextureList[2].
+19:35:08: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\WHEEL.BLP
+19:35:08: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\WHEEL.BLP to the TextureList[3].
+19:35:08: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\LAMP.BLP
+19:35:08: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\LAMP.BLP to the TextureList[4].
+19:35:08: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMOND.BLP
+19:35:08: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMOND.BLP to the TextureList[5].
+19:35:08: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMONDTOP.BLP
+19:35:08: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMONDTOP.BLP to the TextureList[6].
+19:35:08: flags : 10
+19:35:08: shading : 0
+19:35:08: op : 0
+19:35:08: op2 : 0
+19:35:08: colorIndex : -1
+19:35:08: flagsIndex : 0
+19:35:08: texunit : 0
+19:35:08: mode : 1
+19:35:08: textureid : 0
+19:35:08: texunit2 : 0
+19:35:08: transid : 0
+19:35:08: texanimid : 0
+19:35:08: === ModelView ===
+19:35:08: id : 012440125360
+19:35:08: nIndex : 302
+19:35:08: ofsIndex : 48
+19:35:08: nTris : 543
+19:35:08: ofsTris : 656
+19:35:08: nProps : 302
+19:35:08: ofsProps : 1744
+19:35:08: nSub : 6
+19:35:08: ofsSub : 2960
+19:35:08: nTex : 6
+19:35:08: ofsTex : 3248
+19:35:08: lod : 21
+19:35:08: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:35:08: Update model: World\Azeroth\stranglethorn\passivedoodads\gemminecar02\gemminecar03.m2
+19:35:40: Loading model: World\Azeroth\stranglethorn\passivedoodads\gemminecar01\gemminecar01.m2, size: 18432
+
+19:35:40: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\GEMMINECAR_FRONT.BLP
+19:35:40: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\GEMMINECAR_FRONT.BLP to the TextureList[1].
+19:35:40: Loading texture: WORLD\GENERIC\PASSIVEDOODADS\MISC\MINECARS\GEMMINECAR_SIDE.BLP
+19:35:40: Info: Added WORLD\GENERIC\PASSIVEDOODADS\MISC\MINECARS\GEMMINECAR_SIDE.BLP to the TextureList[2].
+19:35:40: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\WHEEL.BLP
+19:35:40: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\WHEEL.BLP to the TextureList[3].
+19:35:40: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\LAMP.BLP
+19:35:40: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\LAMP.BLP to the TextureList[4].
+19:35:40: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMOND.BLP
+19:35:40: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMOND.BLP to the TextureList[5].
+19:35:40: Loading texture: WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMONDTOP.BLP
+19:35:40: Info: Added WORLD\AZEROTH\STRANGLETHORN\PASSIVEDOODADS\GEMMINECAR01\DIAMONDTOP.BLP to the TextureList[6].
+19:35:40: flags : 10
+19:35:40: shading : 0
+19:35:40: op : 0
+19:35:40: op2 : 0
+19:35:40: colorIndex : -1
+19:35:40: flagsIndex : 0
+19:35:40: texunit : 0
+19:35:40: mode : 1
+19:35:40: textureid : 0
+19:35:40: texunit2 : 0
+19:35:40: transid : 0
+19:35:40: texanimid : 0
+19:35:40: === ModelView ===
+19:35:40: id : 012440125360
+19:35:40: nIndex : 302
+19:35:40: ofsIndex : 48
+19:35:40: nTris : 543
+19:35:40: ofsTris : 656
+19:35:40: nProps : 302
+19:35:40: ofsProps : 1744
+19:35:40: nSub : 6
+19:35:40: ofsSub : 2960
+19:35:40: nTex : 6
+19:35:40: ofsTex : 3248
+19:35:40: lod : 21
+19:35:40: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:35:40: Update model: World\Azeroth\stranglethorn\passivedoodads\gemminecar01\gemminecar01.m2
+19:35:45: Loading model: World\Azeroth\stranglethorn\passivedoodads\diamondminewalllantern\diamondminewalllantern.m2, size: 4320
+
+19:35:45: Loading texture: World\Azeroth\Stranglethorn\PassiveDoodads\DiamondMineWallLantern\NEWLAMP.blp
+19:35:45: Info: Added World\Azeroth\Stranglethorn\PassiveDoodads\DiamondMineWallLantern\NEWLAMP.blp to the TextureList[1].
+19:35:45: Loading texture: World\Azeroth\Stranglethorn\PassiveDoodads\DiamondMineWallLantern\wood.blp
+19:35:45: Info: Added World\Azeroth\Stranglethorn\PassiveDoodads\DiamondMineWallLantern\wood.blp to the TextureList[2].
+19:35:45: Loading texture: World\Azeroth\Stranglethorn\PassiveDoodads\DiamondMineWallLantern\rope.blp
+19:35:45: Info: Added World\Azeroth\Stranglethorn\PassiveDoodads\DiamondMineWallLantern\rope.blp to the TextureList[3].
+19:35:45: flags : 10
+19:35:45: shading : 0
+19:35:45: op : 0
+19:35:45: op2 : 0
+19:35:45: colorIndex : -1
+19:35:45: flagsIndex : 0
+19:35:45: texunit : 0
+19:35:45: mode : 1
+19:35:45: textureid : 0
+19:35:45: texunit2 : 0
+19:35:45: transid : 0
+19:35:45: texanimid : 0
+19:35:45: === ModelView ===
+19:35:45: id : 012440125360
+19:35:45: nIndex : 69
+19:35:45: ofsIndex : 48
+19:35:45: nTris : 93
+19:35:45: ofsTris : 192
+19:35:45: nProps : 69
+19:35:45: ofsProps : 384
+19:35:45: nSub : 3
+19:35:45: ofsSub : 672
+19:35:45: nTex : 3
+19:35:45: ofsTex : 816
+19:35:45: lod : 21
+19:35:45: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:35:45: Update model: World\Azeroth\stranglethorn\passivedoodads\diamondminewalllantern\diamondminewalllantern.m2
+19:35:52: Loading model: World\Azeroth\elwynn\passivedoodads\minecart\elwynnminecart.m2, size: 23664
+
+19:35:52: Loading texture: WORLD\AZEROTH\ELWYNN\PASSIVEDOODADS\MINECART\EWHEELSIDE.BLP
+19:35:52: Info: Added WORLD\AZEROTH\ELWYNN\PASSIVEDOODADS\MINECART\EWHEELSIDE.BLP to the TextureList[1].
+19:35:52: Loading texture: WORLD\LORDAERON\TIRISFALGLADE\PASSIVEDOODADS\BARRICADE\DOOR.BLP
+19:35:52: Info: Added WORLD\LORDAERON\TIRISFALGLADE\PASSIVEDOODADS\BARRICADE\DOOR.BLP to the TextureList[2].
+19:35:52: Loading texture: WORLD\AZEROTH\ELWYNN\PASSIVEDOODADS\MINECART\EWOODSUPPORT.BLP
+19:35:52: Info: Added WORLD\AZEROTH\ELWYNN\PASSIVEDOODADS\MINECART\EWOODSUPPORT.BLP to the TextureList[3].
+19:35:52: Loading texture: WORLD\AZEROTH\ELWYNN\PASSIVEDOODADS\MINECART\BLADEBOX.BLP
+19:35:52: Info: Added WORLD\AZEROTH\ELWYNN\PASSIVEDOODADS\MINECART\BLADEBOX.BLP to the TextureList[4].
+19:35:52: flags : 10
+19:35:52: shading : 0
+19:35:52: op : 0
+19:35:52: op2 : 0
+19:35:52: colorIndex : -1
+19:35:52: flagsIndex : 0
+19:35:52: texunit : 0
+19:35:52: mode : 1
+19:35:52: textureid : 0
+19:35:52: texunit2 : 0
+19:35:52: transid : 0
+19:35:52: texanimid : 0
+19:35:52: === ModelView ===
+19:35:52: id : 012440125360
+19:35:52: nIndex : 417
+19:35:52: ofsIndex : 48
+19:35:52: nTris : 714
+19:35:52: ofsTris : 896
+19:35:52: nProps : 417
+19:35:52: ofsProps : 2336
+19:35:52: nSub : 4
+19:35:52: ofsSub : 4016
+19:35:52: nTex : 4
+19:35:52: ofsTex : 4208
+19:35:52: lod : 21
+19:35:52: Attach on id 0 slot -1 scale 1.000000 rot 0.000000 pos (0.000000,0.000000,0.000000)
+19:35:52: Update model: World\Azeroth\elwynn\passivedoodads\minecart\elwynnminecart.m2
+19:36:03: Initializing File Controls...
+20:11:12: Shuting down the program...
+
+20:11:12: Info: GUI Layout was saved.
